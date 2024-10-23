@@ -24,7 +24,7 @@ class ContatoController extends Controller
         Mail::send([], [], function ($message) use ($dados) {
             $message->to('dbleall@gmail.com')
                     ->subject('Nova mensagem de contato')
-                    ->setBody('Nome: ' . $dados['nomecompleto'] . '<br>Telefone: ' . $dados['telefone'] . '<br>Email: ' . $dados['email'] . '<br>Mensagem: ' . $dados['mensagem'], 'text/html');
+                    ->html('Nome: ' . $dados['nomecompleto'] . '<br>Telefone: ' . $dados['telefone'] . '<br>Email: ' . $dados['email'] . '<br>Mensagem: ' . $dados['mensagem'], 'text/html');
         });
 
         // Redirecionar de volta com uma mensagem de sucesso
