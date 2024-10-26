@@ -19,6 +19,9 @@ Route::get('/services/loja-virtual', function () {
     return view('services.loja-virtual');
 })->name('services.loja-virtual');
 
+Route::get('/services/detetive-particular', function () {
+    return view('services.detetive-particular');
+})->name('services.detetive-particular');
 
 
 Route::post('/envia-contato', [ContatoController::class, 'enviar'])->name('envia.contato');
