@@ -28,7 +28,6 @@ Route::get('/services/criacao-grafica', function () {
 })->name('services.criacao-grafica');
 
 
-
 Route::get('/services/detetive-particular', function () {
     return view('services.detetive-particular');
 })->name('services.detetive-particular');
