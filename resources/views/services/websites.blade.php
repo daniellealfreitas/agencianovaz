@@ -188,7 +188,7 @@
                             </div>
 
                             <div id="mixit-container" class="portfolio-container">
-                                <div class="single-portfolio mix branding">
+                                {{-- <div class="single-portfolio mix branding">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img">
                                         <div class="single-item-content">
@@ -202,8 +202,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
+                                </div> --}}
+                                {{-- <div class="single-portfolio mix branding">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/logos/inkjet-small.jpg') }}" alt="img">
                                         <div class="single-item-content">
@@ -280,7 +280,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
                                 <div class="single-portfolio mix websites">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
@@ -329,7 +329,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-portfolio mix publicidade_na_internet">
+                                {{-- <div class="single-portfolio mix publicidade_na_internet">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
                                         <div class="single-item-content">
@@ -374,7 +374,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> --}}
 
                             </div>
                         </div>
@@ -386,7 +386,7 @@
     <!-- End Portfolio section -->
 
 
-    <section id="testimonial">
+    {{-- <section id="testimonial">
         <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
         <div class="counter-overlay">
             <div class="container">
@@ -452,11 +452,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End Testimonial section -->
 
 
-    <section id="client">
+    {{-- <section id="client">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -475,7 +475,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">

@@ -12,11 +12,11 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    VOCÊ PODE   
-                    <span>TER DOMÍNIO</span>
-                    <span>VENDER MAIS</span>
-                    <span>COMUNICAR MAIS</span>
-                    <span>TER PRESENÇA</span> NA INTERNET</h2>
+                    MÍDIAS SOCIAIS 
+                    <span>GERENCIAMENTO  </span>
+                    <span>CRIAÇÃO DE CONTEÚDO</span>
+                    <span>TRÁFEGO PAGO</span>
+                    <span>PERSONALIZADAS</span> GERANDO VENDAS</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
                 <div class="header-btn-area">
@@ -39,50 +39,49 @@
                     <!-- Start welcome area -->
                     <div class="welcome-area">
                         <div class="title-area">
-                            <h2 class="tittle">Bem vindo a <span>Novaz</span></h2>
+                            <h2 class="tittle">REDES<span>SOCIAIS</span></h2>
                             <span class="tittle-line"></span>
-                            <p>A empresa <span>Novaz – Desenvolvendo o futuro da web</span> . Focaliza seu campo de atuação na cidades de <span>Curitiba e região metropolitana</span> desenvolvendo <span>Logotipos, Websites e Publicidade na internet</span>.
-                                Atende empresas de <span>pequeno e médio porte</span>, soluciona as necessidades de comunicação de cada um de seus clientes. Acompanha as fases de <span>planejamento, design e produção</span>, oferecendo um produto condizente
-                                com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.</p>
+                            <p>A <span>Novaz</span> ajuda sua marca a alcançar o público certo nas <span>redes sociais</span>. Focada em <span>Curitiba e região metropolitana</span>, nossa equipe especializada oferece estratégias de <span>engajamento, criação de conteúdo e planejamento de postagens</span> para empresas de <span>pequeno e médio porte</span>. Trabalhamos lado a lado com você, desde o <span>planejamento até a execução</span>, garantindo uma presença online que reflete a <span>personalidade</span> e <span>valores</span> da sua marca. Nosso diferencial está na <span>criatividade</span> e <span>dedicação</span> em cada projeto, criando conexões reais com seu público.</p>
+
                         </div>
                         <div class="welcome-content">
                             <ul class="wc-table">
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-users wc-icon"></span>
-                                        <h4 class="wc-tittle">Experiência</h4>
-                                        <p>A Novaz conta com profissionais com 20 anos de experiência. Especializados em suas áreas de atuação. Profissionais que além de tudo. Amam o que fazem.</p>
+                                        <h4 class="wc-tittle">Aumento de Visibilidade</h4>
+                                        <p>Impulsione sua marca nas redes sociais, alcançando o público certo e ampliando sua presença online para gerar mais oportunidades de negócio.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-sellsy wc-icon"></span>
-                                        <h4 class="wc-tittle">Inovação</h4>
-                                        <p>A Novaz utiliza em seus serviços as últimas tecnologias e tendências de sua área. se preocupando sempre em entregar a melhor solução aos problemas de publicidade de sua empresa.</p>
+                                        <h4 class="wc-tittle">Engajamento Contínuo</h4>
+                                        <p>Conecte-se com seu público-alvo de forma constante e significativa, construindo uma base de seguidores leais que interagem com sua marca.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-line-chart wc-icon"></span>
-                                        <h4 class="wc-tittle">Eficiência</h4>
-                                        <p>Publicidade é muito mais que imagens e textos. é preciso saber diferenciar e identificar a melhor solução para determinado problema. isso é Design isso é o que a Novaz faz.</p>
+                                        <h4 class="wc-tittle">Resultados Mensuráveis</h4>
+                                        <p>Acompanhe o crescimento do seu engajamento e o retorno sobre investimento (ROI) com relatórios detalhados e estratégias ajustadas para melhores resultados.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-calendar wc-icon"></span>
-                                        <h4 class="wc-tittle">Compromisso</h4>
-                                        <p>A Novaz se orgulha do seu grande comprometimento com a qualidade do serviço e do cumprimento de seus prazos.
-                                        </p>
+                                        <h4 class="wc-tittle">Conteúdo Relevante e Frequente</h4>
+                                        <p>Publicações frequentes, estrategicamente planejadas, para manter sua marca sempre ativa e relevante nas redes sociais, com conteúdo que atrai e retém.</p>
                                     </div>
                                 </li>
                             </ul>
                         </div>
+                        
                     </div>
                     <!-- End welcome area -->
                 </div>
             </div>
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-md-12">
                     <div class="about-area">
                         <div class="row">
@@ -108,7 +107,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </section>
     <!-- End about section -->
@@ -119,8 +118,8 @@
         <div class="call-to-overlay">
             <div class="container">
                 <div class="call-to-content wow fadeInUp">
-                    <h2>Sim, vale a pena investir na web.</h2>
-                    <a href="#contact" class="button button-default" data-text="Agora."><span>Investir</span></a>
+                    <h2>Solicite uma análise gratuita .</h2>
+                    <a href="#contact" class="button button-default" data-text="Agora."><span>Solicitar análise </span></a>
                 </div>
             </div>
         </div>
@@ -465,7 +464,7 @@
     <!-- End Portfolio section -->
 
     <!-- Start counter section -->
-    <section id="counter">
+    {{-- <section id="counter">
         <img src="{{ asset('images/counter-bg.jpg') }}" alt="img">
         <div class="counter-overlay">
             <div class="container">
@@ -514,10 +513,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
     <!-- Start Pricing Table section -->
-    <section id="pricing-table">
+    {{-- <section id="pricing-table">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -604,9 +603,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
 
-    <section id="testimonial">
+    {{-- <section id="testimonial">
         <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
         <div class="counter-overlay">
             <div class="container">
@@ -672,11 +671,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- End Testimonial section -->
 
 
-    <section id="client">
+    {{-- <section id="client">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -695,7 +694,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">
@@ -737,5 +736,5 @@
             </div>
         </div>
     </section>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d916576.3811702927!2d-49.5608904954018!3d-26.18442842511162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce24fc0e0abb9%3A0x50ac2619d0ff0c71!2sNovaz+-+Cria%C3%A7%C3%A3o+de+Websites%2C+Logotipos%2C+Publicidade!5e0!3m2!1sen!2sbr!4v1564323270740!5m2!1sen!2sbr" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+    {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d916576.3811702927!2d-49.5608904954018!3d-26.18442842511162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce24fc0e0abb9%3A0x50ac2619d0ff0c71!2sNovaz+-+Cria%C3%A7%C3%A3o+de+Websites%2C+Logotipos%2C+Publicidade!5e0!3m2!1sen!2sbr!4v1564323270740!5m2!1sen!2sbr" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> --}}
 @endsection
