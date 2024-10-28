@@ -33,4 +33,9 @@ Route::get('/services/detetive-particular', function () {
 })->name('services.detetive-particular');
 
 
+Route::get('/novaxxx/homexxx', function () {
+    return view('novaxxx/homexxx');
+})->name('novaxxx/homexxx');
+
+
 Route::post('/envia-contato', [ContatoController::class, 'enviar'])->name('envia.contato');
