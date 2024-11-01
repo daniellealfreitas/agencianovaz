@@ -12,10 +12,10 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    VOCÊ PODE   
-                    <span>TER DOMÍNIO</span>
+                    VOCÊ PODE  
                     <span>VENDER MAIS</span>
                     <span>COMUNICAR MAIS</span>
+                    <span>TER DOMÍNIO</span>
                     <span>TER PRESENÇA</span> NA INTERNET</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
@@ -44,6 +44,16 @@
                             <p>A empresa <span>Novaz – Desenvolvendo o futuro da web</span> . Focaliza seu campo de atuação na cidades de <span>Curitiba e região metropolitana</span> desenvolvendo <span>Logotipos, Websites e Publicidade na internet</span>.
                                 Atende empresas de <span>pequeno e médio porte</span>, soluciona as necessidades de comunicação de cada um de seus clientes. Acompanha as fases de <span>planejamento, design e produção</span>, oferecendo um produto condizente
                                 com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.</p>
+                            <p>
+                                Novaz – Agência de Design e Marketing Digital em Curitiba. 
+
+                                <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma comunicação visual que destaca a marca no mercado. </p>
+                                
+                                <p>Nosso processo acompanha cada etapa, desde o planejamento até o design e a produção, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na Novaz, nos diferenciamos pela criatividade, inovação e dedicação em cada projeto. Fazemos muito mais que desenvolver: transformamos sua presença digital em uma ferramenta de sucesso.
+
+                            </p>
+
+
                         </div>
                         <div class="welcome-content">
                             <ul class="wc-table">

@@ -2,32 +2,23 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\ContactMail;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
 class ContatoController extends Controller
 {
-    public function enviar(Request $request)
+    public function enviaContato(Request $request)
     {
-        // Validação do formulário
-        $request->validate([
-            'nomecompleto' => 'required|string|max:255',
-            'telefone' => 'nullable|string|max:20',
-            'email' => 'required|email|max:255',
-            'mensagem' => 'required|string|max:500',
+        $dados = $request->validate([
+            'nomecompleto' => 'required|string',
+            'telefone' => 'nullable|string',
+            'email' => 'required|email',
+            'mensagem' => 'required|string',
         ]);
 
-        // Processar os dados (aqui você pode enviar um email, salvar no banco de dados, etc.)
-        $dados = $request->all();
+        Mail::to('dbleall@gmail.com')->send(new ContactMail($dados));
 
-        // Exemplo: enviar um email (substitua com sua lógica)
-        Mail::send([], [], function ($message) use ($dados) {
-            $message->to('dbleall@gmail.com')
-                    ->subject('Nova mensagem de contato')
-                    ->html('Nome: ' . $dados['nomecompleto'] . '<br>Telefone: ' . $dados['telefone'] . '<br>Email: ' . $dados['email'] . '<br>Mensagem: ' . $dados['mensagem'], 'text/html');
-        });
-
-        // Redirecionar de volta com uma mensagem de sucesso
-        return redirect()->back()->with('success', 'Mensagem enviada com sucesso!');
+        return redirect()->back()->with('success', 'Sua mensagem foi enviada com sucesso!');
     }
 }

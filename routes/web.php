@@ -1,4 +1,5 @@
 <?php
+
 use App\Http\Controllers\ContatoController;
 use Illuminate\Support\Facades\Route;
 
@@ -38,4 +39,9 @@ Route::get('/novaxxx/homexxx', function () {
 })->name('novaxxx/homexxx');
 
 
-Route::post('/envia-contato', [ContatoController::class, 'enviar'])->name('envia.contato');
+Route::post('/envia-contato', [ContatoController::class, 'enviaContato'])->name('envia.contato');
+
+
+
+
+
