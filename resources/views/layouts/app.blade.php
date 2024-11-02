@@ -44,6 +44,11 @@ define('SITE_KEY', '6LeWLa8UAAAAACh9IFmr0VWPkQH2c3p8piwypM3I');
 </head>
 
 <body>
+    @if(session('success'))
+    <div class="alert alert-success">
+        {{ session('success') }}
+    </div>
+   @endif
     {{-- <!-- BEGAIN PRELOADER -->
     <div id="preloader">
         <div class="loader">&nbsp;</div>

@@ -4,6 +4,8 @@
 
 @section('header')
  <!-- Start header section -->
+
+
  <header id="header">
     <div class="header-inner">
         <!-- Header image -->
@@ -717,15 +719,10 @@
                             <div class="form-group">
                                 <textarea class="form-control" placeholder="Mensagem" name="mensagem" required></textarea>
                             </div>
-                            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" />
                             <button type="submit" data-text="Enviar" class="button button-default"><span>Enviar</span></button>
                         </form>
                         
-                        @if(session('success'))
-                            <div class="alert alert-success">
-                                {{ session('success') }}
-                            </div>
-                        @endif
+                       
                         
                     </div>
                 </div>
