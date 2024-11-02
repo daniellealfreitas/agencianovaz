@@ -42,12 +42,13 @@
                     <div class="welcome-area">
                         <div class="title-area">
                             <h2 class="tittle">Bem vindo a <span>Novaz</span></h2>
-                            <span class="tittle-line"></span>
-                            <p>A empresa <span>Novaz – Desenvolvendo o futuro da web</span> . Focaliza seu campo de atuação na cidades de <span>Curitiba e região metropolitana</span> desenvolvendo <span>Logotipos, Websites e Publicidade na internet</span>.
+                            <span class="tittle-line"> Novaz – Agência de Design e Marketing Digital em Curitiba. </span>
+                            {{-- <p>A empresa <span>Novaz – Desenvolvendo o futuro da web</span> . Focaliza seu campo de atuação na cidades de <span>Curitiba e região metropolitana</span> desenvolvendo <span>Logotipos, Websites e Publicidade na internet</span>.
                                 Atende empresas de <span>pequeno e médio porte</span>, soluciona as necessidades de comunicação de cada um de seus clientes. Acompanha as fases de <span>planejamento, design e produção</span>, oferecendo um produto condizente
-                                com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.</p>
+                                com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.
+                            </p> --}}
                             <p>
-                                Novaz – Agência de Design e Marketing Digital em Curitiba. 
+                               
 
                                 <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma comunicação visual que destaca a marca no mercado. </p>
                                 
