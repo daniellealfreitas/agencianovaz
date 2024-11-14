@@ -139,7 +139,7 @@
     </section>
     <!-- End call to action -->
 
-    <!-- Start Team action -->
+    <!-- Start Team action 
   <section id="team">
     <div class="container">
       <div class="row">
@@ -174,7 +174,7 @@
       </div>
     </div>
   </section>
-
+-->
 
     <!-- Start service section-->
    <section id="service">
