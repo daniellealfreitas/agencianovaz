@@ -87,7 +87,10 @@ h2 {
 img {
     border: none;
 }
+p{
+    line-height: 20pt;
 
+}
 
 /* Preloader */
 

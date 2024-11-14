@@ -154,135 +154,227 @@
     </div>
   </section>
 
-    <!-- Start Portfolio section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="portfolio-area">
-                        <div class="title-area">
-                            <h2 class="tittle">Modelos</h2>
-                            <span class="tittle-line"></span>
-                            <p>Só as mais vagabundas e os mais safados</p>
+  <!-- Start Portfolio section -->
+  <section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="portfolio-area">
+                    <div class="title-area">
+                        <h2 class="tittle">Portfolio</h2>
+                        <span class="tittle-line"></span>
+                        <p>Abaixo você vai encontrar nossos ultimos trabalhos</p>
+                    </div>
+                    <!-- Portfolio content -->
+                    <div class="portfolio-content">
+                        <!-- portfolio menu -->
+                        <div class="portfolio-menu">
+                            <ul>
+                                <li class="filter" data-filter="all">All</li>
+                                <li class="filter" data-filter=".branding">Logotipos</li>
+                                <li class="filter" data-filter=".websites">Websites</li>
+                                <li class="filter" data-filter=".publicidade_na_internet">Publicidade na Internet</li>
+                                <li class="filter" data-filter=".outros">Outros</li>
+                            </ul>
                         </div>
-                        <!-- Portfolio content -->
-                        <div class="portfolio-content">
-                            <!-- portfolio menu -->
-                            <div class="portfolio-menu">
-                                <ul>
-                                    <li class="filter" data-filter="all">Todos</li>
-                                    <li class="filter" data-filter=".women">Mulheres</li>
-                                    <li class="filter" data-filter=".men">Homens</li>
-                                    <li class="filter" data-filter=".Trans">Trans</li>
-                                    <li class="filter" data-filter=".others">Outros</li>
-                                </ul>
+
+                        <div id="mixit-container" class="portfolio-container">
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/oticaredivo-big.jpg') }}"><i class="fa fa-eye"></i></a>
+                                            <a class="link-btn" href="{{ asset('/images/portfolio/logos/oticaredivo.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>Ótica Redivo - Criciúma-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/inkjet-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/inkjet-big.jpg') }}"><i class="fa fa-eye"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>Inkjet - Itajaí-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/cofee_and_beer-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/coffee_and_beer-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ asset('images/portfolio/logos/cofeeandbeer.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>Coffee & Beer - Criciúma-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/cristiano_de_sa_small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <d   iv class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/cristiano_de_sa_big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ asset('images/portfolio/logos/cristianodesa.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>Cristiano de Sá - Criciúma-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/o_catarina-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/o_catarina-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ asset('images/portfolio/logos/ocatarina.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>O Catarina Florianópolis-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix branding">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/logos/mao_amiga-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/mao_amiga-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ asset('images/portfolio/logos/maoamiga.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Logotipo</h4>
+                                            <span>Mão Amiga - Laguna-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix websites">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/chico_pizzas-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="http://www.novaz.com.br/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Website</h4>
+                                            <span>Chico Pizzas - Criciúma-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix websites">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/website/cupcakes-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/cupcakes-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ url('/demo/cupcakesdapaula/')}}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Website</h4>
+                                            <span>Cupcakes da Paula - Florianópolis-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix websites">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/website/hotel-zata-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/hotel-zata-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="{{ url('/demo/hotel_zata/') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Criação de Website</h4>
+                                            <span>Hotel Zata - Criciúma-SC</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix publicidade_na_internet">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                            <a class="link-btn" href="https://www.facebook.com/HG-Solu%C3%A7%C3%B5es-Financeiras-961318787280334/" target="_blank"><i class="fa fa-link"></i></a>
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Publicidade na Internet</h4>
+                                            <span>HG Soluções Financeiras</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix outros">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Manipulação de Imagem</h4>
+                                            <span>Bento Love And Maxwell</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="single-portfolio mix outros">
+                                <div class="single-item">
+                                    <img src="{{ asset('images/portfolio/manipulacao_de_imagens/pense-sempre-small.jpg') }}" alt="img">
+                                    <div class="single-item-content">
+                                        <div class="portfolio-social-icon">
+                                            <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/pense_sempre-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                        </div>
+                                        <div class="portfolio-title">
+                                            <h4>Manipulação de Imagem</h4>
+                                            <span>Pense Sempre - Florianópolis</span>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
 
-                            <div id="mixit-container" class="portfolio-container">
-                           
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/chico_pizzas-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Chico Pizzas - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/cupcakes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/cupcakes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/cupcakesdapaula/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Cupcakes da Paula - Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/hotel-zata-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/hotel-zata-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/hotel_zata/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Hotel Zata - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                {{-- <div class="single-portfolio mix publicidade_na_internet">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="https://www.facebook.com/HG-Solu%C3%A7%C3%B5es-Financeiras-961318787280334/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Publicidade na Internet</h4>
-                                                <span>HG Soluções Financeiras</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Bento Love And Maxwell</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/pense-sempre-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/pense_sempre-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Pense Sempre - Florianópolis</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> --}}
-
-                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- End Portfolio section -->
+    </div>
+</section>
+<!-- End Portfolio section -->
 
 
     {{-- <section id="testimonial">
@@ -355,26 +447,6 @@
     <!-- End Testimonial section -->
 
 
-    {{-- <section id="client">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title-area">
-                        <h2 class="tittle">Clientes</h2>
-                    </div>
-                    <div class="client-area">
-                        <ul class="client-table">
-                            <li><img src="{{ asset('images/clientes/cupcakes-da-paula.png') }}" alt="Cupcakes da Paula"></li>
-                            <li><img src="{{ asset('images/clientes/wd_wall_divisorias.png') }}" alt="WD Wall Divisórias"></li>
-                            <li><img src="{{ asset('images/clientes/otica_redivo.png') }}" alt="Òtica Redivo"></li>
-                            <li><img src="{{ asset('images/clientes/hg_solucoes_financeiras2.png') }}" alt="HG Soluções Financeiras"></li>
-                            <li><img src="{{ asset('images/clientes/coffee_and_beer.png') }}" alt="Coffee & Beer"></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">

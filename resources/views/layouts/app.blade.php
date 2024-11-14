@@ -19,16 +19,15 @@ define('SITE_KEY', '6LeWLa8UAAAAACh9IFmr0VWPkQH2c3p8piwypM3I');
 
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title> @yield('title', 'Título padrão')</title>
+
     <link href="{{ asset('images/favicon.ico') }}" rel="shortcut icon" type="image/icon"  />
     <link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
     <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
     <link href="{{ asset('css/slick.css') }}" rel="stylesheet">
-
     <link href="{{ asset('css/jquery.fancybox.css') }}" rel="stylesheet"  type="text/css" media="screen" />
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet" type="text/css"  />
     <link href="{{ asset('css/theme-color/red-theme.css') }}" id="switcher"  rel="stylesheet">
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
@@ -107,9 +106,6 @@ define('SITE_KEY', '6LeWLa8UAAAAACh9IFmr0VWPkQH2c3p8piwypM3I');
         <!-- Custom js -->
         <script type="text/javascript" src="{{ asset('js/custom.js') }}"></script>
 
-
-
-    
 </body>
 
 </html>
