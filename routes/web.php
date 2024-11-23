@@ -38,6 +38,9 @@ Route::get('/novazxxx/homexxx', function () {
     return view('novazxxx/homexxx');
 })->name('novazxxx/homexxx');
 
+Route::get('/novazxxx/zilandaxxx', function () {
+    return view('novazxxx/zilandaxxx');
+})->name('novazxxx/zilandaxxx');
 
 Route::post('/envia-contato', [ContatoController::class, 'enviaContato'])->name('envia.contato');
 
