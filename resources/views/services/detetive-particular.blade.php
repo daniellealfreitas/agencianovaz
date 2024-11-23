@@ -117,29 +117,29 @@
   </section>
 
   <!-- Vantagens Section -->
-  <section id="vantagens" class="py-5">
+<section id="vantagens" class="py-5">
     <div class="container">
-      <h2 class="text-center mb-4">Vantagens de Ter um Website Profissional</h2>
-      <div class="row">
-        <div class="col-md-6">
-          <h5>Credibilidade</h5>
-          <p>Um site bem desenvolvido transmite confiança para seus clientes, consolidando sua marca no mercado.</p>
+        <h2 class="text-center mb-4">Vantagens de Contratar um Detetive Particular</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <h5>Confidencialidade Absoluta</h5>
+                <p>Garantimos total sigilo em todas as investigações, preservando a privacidade de nossos clientes.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Resultados Precisos</h5>
+                <p>Com técnicas avançadas e anos de experiência, entregamos informações claras e confiáveis.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Atendimento 24/7</h5>
+                <p>Estamos disponíveis a qualquer hora, prontos para ajudar em situações urgentes e complexas.</p>
+            </div>
+            <div class="col-md-6">
+                <h5>Discrição Profissional</h5>
+                <p>Realizamos cada caso com cuidado e discrição, garantindo que suas preocupações sejam tratadas com respeito.</p>
+            </div>
         </div>
-        <div class="col-md-6">
-          <h5>Acessibilidade 24/7</h5>
-          <p>Com um site, sua empresa estará disponível para todos, a qualquer hora do dia, aumentando suas chances de novos negócios.</p>
-        </div>
-        <div class="col-md-6">
-          <h5>Expansão de Alcance</h5>
-          <p>Um site pode ampliar significativamente seu público, atraindo novos clientes em diferentes regiões.</p>
-        </div>
-        <div class="col-md-6">
-          <h5>Personalização</h5>
-          <p>Um design sob medida permite que seu site reflita fielmente a identidade única do seu negócio.</p>
-        </div>
-      </div>
     </div>
-  </section>
+</section>
 
  
   <!-- FAQ Section -->
@@ -163,228 +163,7 @@
     </div>
   </section>
 
-    <!-- Start Portfolio section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="portfolio-area">
-                        <div class="title-area">
-                            <h2 class="tittle">Portfolio</h2>
-                            <span class="tittle-line"></span>
-                            <p>Abaixo você vai encontrar nossos ultimos trabalhos</p>
-                        </div>
-                        <!-- Portfolio content -->
-                        <div class="portfolio-content">
-                            <!-- portfolio menu -->
-                            <div class="portfolio-menu">
-                                <ul>
-                                    <li class="filter" data-filter="all">All</li>
-                                    <li class="filter" data-filter=".branding">Logotipos</li>
-                                    <li class="filter" data-filter=".websites">Websites</li>
-                                    <li class="filter" data-filter=".publicidade_na_internet">Publicidade na Internet</li>
-                                    <li class="filter" data-filter=".outros">Outros</li>
-                                </ul>
-                            </div>
-
-                            <div id="mixit-container" class="portfolio-container">
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('/images/portfolio/logos/oticaredivo-big.jpg') }}"><i class="fa fa-eye"></i></a>
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/oticaredivo.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Ótica Redivo - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/inkjet-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/inkjet-big.jpg') }}"><i class="fa fa-eye"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Inkjet - Itajaí-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/cofee_and_beer-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/coffee_and_beer-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cofeeandbeer.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Coffee & Beer - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/cristiano_de_sa_small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <d   iv class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/cristiano_de_sa_big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cristianodesa.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Cristiano de Sá - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/o_catarina-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/o_catarina-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/ocatarina.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>O Catarina Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/mao_amiga-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/mao_amiga-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/maoamiga.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Mão Amiga - Laguna-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/chico_pizzas-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Chico Pizzas - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/cupcakes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/cupcakes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/cupcakesdapaula/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Cupcakes da Paula - Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/hotel-zata-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/hotel-zata-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/hotel_zata/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Hotel Zata - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix publicidade_na_internet">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="https://www.facebook.com/HG-Solu%C3%A7%C3%B5es-Financeiras-961318787280334/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Publicidade na Internet</h4>
-                                                <span>HG Soluções Financeiras</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Bento Love And Maxwell</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/pense-sempre-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/pense_sempre-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Pense Sempre - Florianópolis</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Portfolio section -->
-
+    
 
     <section id="testimonial">
         <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
@@ -402,7 +181,7 @@
                                 <div class="testimonial-slider">
                                     <!-- single slide -->
                                     <div class="single-slide">
-                                        <p>Utilizo o Logotipo que a Novaz criou para apresentar meus trabalhos no Facebook. Faço cupcakes personalizados e ter uma marca me ajudou a sair da informalidade.</p>
+                                        <p>Contratei o serviço de detetive particular para solucionar uma questão pessoal delicada. A Paula foi extremamente discreta e profissional, e as informações que recebi foram cruciais para resolver minha situação.</p>
                                         <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/paula_moretti.png') }}" alt="img">
                                             <p>Paula Moretti</p>
@@ -411,7 +190,7 @@
                                     </div>
                                     <!-- single slide -->
                                     <div class="single-slide">
-                                        <p>Contratei em 2012 o serviço de Website da Novaz e mudou meu negócio. Hoje 70% dos meus clientes vem do meu website, Recomendo.</p>
+                                        <p>O detetive conseguiu desvendar um caso complexo relacionado à minha empresa. A investigação foi conduzida com muito profissionalismo e me ajudou a proteger meu negócio.</p>
                                         <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/ivonei_s_cescon.png') }}" alt="img">
                                             <p>Ivonei S. Cescon</p>
@@ -420,7 +199,7 @@
                                     </div>
                                     <!-- single slide -->
                                     <div class="single-slide">
-                                        <p>A Novaz desenvolveu o Manual da Marca que irei utilizar na minha ótica. fiquei satisfeito com a qualidade do trabalho.</p>
+                                        <p>Contratei os serviços para uma investigação envolvendo minha ótica, e fiquei impressionado com a rapidez e precisão dos resultados. Recomendo a todos que precisam de apoio profissional em situações delicadas.</p>
                                         <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/lucas_redivo.png') }}" alt="img">
                                             <p>Lucas Redivo</p>
@@ -429,7 +208,7 @@
                                     </div>
                                     <!-- single slide -->
                                     <div class="single-slide">
-                                        <p>Através do Website pude ter mais informações de onde os meus clientes vinham e qual o perfil deles. ajudou muito na tomada de decisões da minha empresa.</p>
+                                        <p>O trabalho do detetive foi fundamental para entender melhor um problema que eu enfrentava na minha academia. Com os resultados, tomei as decisões certas para o futuro do meu negócio.</p>
                                         <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/fabiano_winiarski.png') }}" alt="img">
                                             <p>Fabiano Winiarski</p>
@@ -438,12 +217,14 @@
                                     </div>
                                     <!-- single slide -->
                                     <div class="single-slide">
-                                        <p>Fiquei impressionado com a agilidade do atendimento, atualizaram meu website antigo e obtive retorno de clientes que elogiaram o site.</p>
+                                        <p>Fiquei impressionado com a atenção aos detalhes e a agilidade no atendimento. O detetive conseguiu informações críticas em um curto período, e isso fez toda a diferença no meu caso.</p>
                                         <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/carlos_dropfish.png') }}" alt="img">
                                             <p>Carlos</p>
                                             <span>DropFish</span>
                                         </div>
+                                    </div>
+                                    
                                     </div>
                                 </div>
                             </div>
@@ -509,7 +290,7 @@
                             <div class="form-group">
                                 <textarea class="form-control" placeholder="Mensagem" name="mensagem"></textarea>
                             </div>
-                            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" />
+                            
                             <button type="submit" data-text="Enviar" class="button button-default"><span>Enviar</span></button>
                         </form>
                     </div>
