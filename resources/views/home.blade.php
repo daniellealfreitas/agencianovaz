@@ -703,7 +703,8 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-sm-6 col-xs-12">
-                    <div class="contact-right wow fadeInRight">
+                    <x-contact-form />
+                    {{-- <div class="contact-right wow fadeInRight">
                         <h2>Envie uma mensagem</h2>
                         <form action="{{ route('envia.contato') }}" class="contact-form" method="POST">
                             @csrf
@@ -724,7 +725,7 @@
                         
                        
                         
-                    </div>
+                    </div> --}}
                 </div>
             </div>
         </div>
