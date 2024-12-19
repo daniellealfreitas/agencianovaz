@@ -46,6 +46,11 @@ Route::get('/novazxxx/profile', function () {
     return view('novazxxx/profile');
 })->name('novazxxx/profile');
 
+Route::get('/novazxxx/novazalpha', function () {
+    return view('novazxxx/novazalpha');
+})->name('novazxxx/novazalpha');
+
+
 Route::post('/envia-contato', [ContatoController::class, 'enviaContato'])->name('envia.contato');
 
 
