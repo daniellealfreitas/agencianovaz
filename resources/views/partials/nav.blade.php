@@ -28,18 +28,29 @@
                 <li><a href="{{ url('/services/criacao-grafica') }}">Criação Gráfica</a></li>
               </ul>
             </li>  
+
             <li><a href="{{ url('/#portfolio')}}">Portfolio</a></li>
             <li><a href="{{ url('/#pricing-table')}}">Investimento</a></li>
             <li><a href="{{ url('/#contact')}}">Contato</a></li>
+            {{-- <li class="dropdown">
+              <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">NovazXXX<span class="caret"></span></a>
+              <ul class="dropdown-menu">                
+                <li><a href="{{ url('/services/websites') }}">Websites</a></li>
+                <li><a href="{{ url('/services/loja-virtual') }}">Loja Virtual</a></li>
+                <li><a href="{{ url('/services/midias-sociais') }}">Midias Sociais</a></li>
+                <li><a href="{{ url('/services/criacao-grafica') }}">Criação Gráfica</a></li>
+              </ul>
+            </li>   --}}
+            
           </ul>
         </div>
         <!--/.nav-collapse -->
-        <div class="search-area">
+        {{-- <div class="search-area">
           <form action="">
             <input id="search" name="search" type="text" placeholder="O que você procura?">
             <input id="search_submit" value="Rechercher" type="submit">
           </form>
-        </div>
+        </div> --}}
       </div>
     </nav>
   </section>

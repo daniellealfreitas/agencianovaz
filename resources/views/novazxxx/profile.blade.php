@@ -128,7 +128,7 @@
     </section>
     <!-- End call to action -->
 
-    <!-- Start Team action 
+    <!-- Start Team action -->
   <section id="team">
     <div class="container">
       <div class="row">
@@ -163,9 +163,9 @@
       </div>
     </div>
   </section>
--->
 
-    <!-- Start service section
+
+    <!-- Start service section-->
   <section id="service">
     <div class="container">
       <div class="row">
@@ -241,7 +241,7 @@
       </div>
     </div>
   </section>
--->
+
 
     <!-- Start Portfolio section -->
     <section id="portfolio">
@@ -697,6 +697,7 @@
             </div>
         </div>
     </section>
+
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">
@@ -741,5 +742,5 @@
 
     <iframe src="https://www.google.com/maps/embed?pb=!4v1728710075027!6m8!1m7!1scniSll40uDeacmLywkVd6A!2m2!1d-25.43028062842244!2d-49.29073518793135!3f80.86844057688234!4f7.031743857417098!5f0.7820865974627469" width="100%" height="600"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-    {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d916576.3811702927!2d-49.5608904954018!3d-26.18442842511162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dce24fc0e0abb9%3A0x50ac2619d0ff0c71!2sNovaz+-+Cria%C3%A7%C3%A3o+de+Websites%2C+Logotipos%2C+Publicidade!5e0!3m2!1sen!2sbr!4v1564323270740!5m2!1sen!2sbr" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> --}}
+  
 @endsection

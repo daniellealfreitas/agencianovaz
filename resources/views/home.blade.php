@@ -14,11 +14,11 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    GERANDO   
-                    <span>RESULTADOS</span>
+                    DESENVOLVENDO   
+                    <span>O FUTURO</span>
                     <span>VENDAS</span>
                     <span>SOLUÇÕES</span>
-                    <span>ATRAVÉS</span> DO MARKETING</h2>
+                    <span></span>MARKETING</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
                 <div class="header-btn-area">
@@ -51,7 +51,7 @@
                                   
                                 <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma <span>comunicação visual</span> que destaca a marca no mercado. </p>
                                 
-                                <p>Nosso processo acompanha cada etapa, desde o planejamento, design e  produção, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na Novaz, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de sucesso.
+                                <p>Nosso processo acompanha cada etapa, desde o planejamento, design e  produção, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na <span>Novaz</span>, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de <span>sucesso.</span>
 
                             </p>
 
