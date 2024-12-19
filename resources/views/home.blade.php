@@ -14,15 +14,16 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    DESENVOLVENDO   
-                    <span>O FUTURO</span>
-                    <span>VENDAS</span>
-                    <span>SOLUÇÕES</span>
-                    <span></span>MARKETING</h2>
+                    AGÊNCIA DE CRIAÇÃO
+                    <span>WEBSITES</span>
+                    <span>LOJAS VIRTUAIS</span>
+                    <span>REDES SOCIAIS</span>
+                    <span>SEO</span>
+                    MARKETING</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
                 <div class="header-btn-area">
-                    <a class="knowmore-btn" href="{{ url('/#about')}}">Saiba Mais</a>
+                    <a class="knowmore-btn" href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" target="blank">(48)9.8828-8309</a>
                     <a class="download-btn" href="{{ url('/#contact') }}">Solicite Orçamento</a>
                 </div>
             </div>
