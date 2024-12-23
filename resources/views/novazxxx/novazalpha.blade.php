@@ -21,7 +21,7 @@
                 <!-- End header content slider -->
                 <!-- Header btn area -->
                 <div class="header-btn-area">
-                    <a class="knowmore-btn" href="#about">Saiba Mais</a>
+                    <a class="knowmore-btn" href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" target="blank">(48)9.8828-8309</a>
                     <a class="download-btn" href="#contact">CONTRATAR</a>
                 </div>
             </div>

@@ -48,11 +48,11 @@
                                 Atende empresas de <span>pequeno e médio porte</span>, soluciona as necessidades de comunicação de cada um de seus clientes. Acompanha as fases de <span>planejamento, design e produção</span>, oferecendo um produto condizente
                                 com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.
                             </p> --}}
-                            <p>                            
+                            <p style="font-size: 10em">                            
                                   
                                 <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma <span>comunicação visual</span> que destaca a marca no mercado. </p>
                                 
-                                <p>Nosso processo acompanha cada etapa, desde o planejamento, design e  produção, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na <span>Novaz</span>, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de <span>sucesso.</span>
+                                <p>Nosso processo acompanha cada etapa, desde o <span>planejamento</span>, <span>design</span> e  <span>produção</span>, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na <span>Novaz</span>, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de <span>sucesso.</span>
 
                             </p>
 
@@ -132,8 +132,8 @@
         <div class="call-to-overlay">
             <div class="container">
                 <div class="call-to-content wow fadeInUp">
-                    <h2>Sim, vale a pena investir na web.</h2>
-                    <a href="{{ url('/#contact')}} " class="button button-default" data-text="Agora."><span>Investir</span></a>
+                    <h2>Sua presença online está realmente funcionando? Peça uma análise gratuita agora.</h2>
+                    <a href="{{ url('/#contact')}} " class="button button-default" data-text="Agora."><span>Solicitar Análise</span></a>
                 </div>
             </div>
         </div>
