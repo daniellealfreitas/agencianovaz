@@ -48,7 +48,7 @@
                                 Atende empresas de <span>pequeno e médio porte</span>, soluciona as necessidades de comunicação de cada um de seus clientes. Acompanha as fases de <span>planejamento, design e produção</span>, oferecendo um produto condizente
                                 com a <span>qualidade do projeto</span> inicialmente apresentado. Nos diferenciamos pela <span>criatividade</span> e <span>amor</span> empregado a cada projetos.
                             </p> --}}
-                            <p style="font-size: 10em">                            
+                            <p style="font-size: 1.2em">                            
                                   
                                 <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma <span>comunicação visual</span> que destaca a marca no mercado. </p>
                                 
