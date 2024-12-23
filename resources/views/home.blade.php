@@ -50,9 +50,11 @@
                             </p> --}}
                             <p style="font-size: 1.2em">                            
                                   
-                                <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma <span>comunicação visual</span> que destaca a marca no mercado. </p>
+                                <span>A Novaz</span> é uma <span>agência digital</span> localizada em Curitiba, especializada no desenvolvimento de <span>logotipos, websites e publicidade na internet </span>Atendemos empresas de pequeno e médio porte, com soluções personalizadas para cada cliente, garantindo uma <span>comunicação visual</span> que destaca a marca no mercado. 
+                            </p>
                                 
-                                <p>Nosso processo acompanha cada etapa, desde o <span>planejamento</span>, <span>design</span> e  <span>produção</span>, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na <span>Novaz</span>, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de <span>sucesso.</span>
+                                <p style="font-size: 1.2em">
+                                    Nosso processo acompanha cada etapa, desde o <span>planejamento</span>, <span>design</span> e  <span>produção</span>, assegurando que o produto final mantenha o padrão de qualidade proposto inicialmente. Na <span>Novaz</span>, nos diferenciamos pela <span>criatividade, inovação e dedicação</span> em cada projeto. Fazemos muito mais que desenvolver: transformamos sua <span>presença digital</span>     em uma ferramenta de <span>sucesso.</span>
 
                             </p>
 
@@ -108,12 +110,12 @@
                             <div class="col-md-7 col-sm-6 col-xs-12">
                                 <div class="about-right wow fadeInRight">
                                     <div class="title-area">
-                                        <h2 class="tittle">Sobre o <span>Fundador</span></h2>
+                                        <h2 class="tittle">Sobre o <span>Profissional</span></h2>
                                         <span class="tittle-line"></span>
                                         <p>Tenho <span>37 anos</span> nasci em São Paulo Capital. Resido atualmente em <span>Curitiba</span>. Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e Agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
                                             posições nos sites de busca como <span>Google.</span></p>
                                         <div class="about-btn-area">
-                                            <a href="{{ url('/#contact') }}" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Fundador</span></a>
+                                            <a href="{{ url('/#contact') }}" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -210,7 +212,7 @@
                 <li class="col-md-3 col-sm-6">
                     <div class="single-service wow slideInUp">
                       <span class="fa fa-edit service-icon"></span>
-                      <h4 class="service-title">Mídias Sociais</h4>
+                      <h4 class="service-title">Redes Sociais</h4>
 <p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. Aumente sua visibilidade e conecte-se com o público certo através de campanhas personalizadas, posts dinâmicos e análises de performance que garantem resultados.</p>
                     </div>
                   </li>
