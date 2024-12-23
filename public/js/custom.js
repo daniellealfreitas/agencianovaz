@@ -159,28 +159,66 @@ jQuery(function($){
 	
 		//MENU SCROLLING WITH ACTIVE ITEM SELECTED
 
+		// // Cache selectors
+		// var lastId,
+		// topMenu = $(".main-nav"),
+		// topMenuHeight = topMenu.outerHeight()+13,
+		// // All list items
+		// menuItems = topMenu.find("a"),
+		// // Anchors corresponding to menu items
+		// scrollItems = menuItems.map(function(){
+		//   var item = $($(this).attr("href"));
+		//   if (item.length) { return item; }
+		// });
+
+		// // Bind click handler to menu items
+		// // so we can get a fancy scroll animation
+		// menuItems.click(function(e){
+		//   var href = $(this).attr("href"),
+		//       offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+32;
+		//   jQuery('html, body').stop().animate({ 
+		//       scrollTop: offsetTop
+		//   }, 1500);
+		//   e.preventDefault();
+		// });
+
 		// Cache selectors
-		var lastId,
-		topMenu = $(".main-nav"),
-		topMenuHeight = topMenu.outerHeight()+13,
-		// All list items
-		menuItems = topMenu.find("a"),
-		// Anchors corresponding to menu items
-		scrollItems = menuItems.map(function(){
-		  var item = $($(this).attr("href"));
-		  if (item.length) { return item; }
+	var lastId,
+	topMenu = $(".main-nav"),
+	topMenuHeight = topMenu.outerHeight() + 13,
+	// All list items
+	menuItems = topMenu.find("a"),
+	// Anchors corresponding to menu items
+	scrollItems = menuItems.map(function () {
+		var href = $(this).attr("href");
+		// Verifica se o href é uma âncora válida
+		if (href && href.startsWith("#")) {
+			var item = $(href); // Seleciona o elemento com a âncora
+			if (item.length) {
+				return item;
+			}
+		}
 		});
 
-		// Bind click handler to menu items
-		// so we can get a fancy scroll animation
-		menuItems.click(function(e){
-		  var href = $(this).attr("href"),
-		      offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+32;
-		  jQuery('html, body').stop().animate({ 
-		      scrollTop: offsetTop
-		  }, 1500);
-		  e.preventDefault();
-		});
+	// Bind click handler to menu items
+	// so we can get a fancy scroll animation
+	menuItems.click(function (e) {
+		var href = $(this).attr("href");
+		// Se for uma âncora, calcula o offset
+		if (href && href.startsWith("#")) {
+			var offsetTop = href === "#" ? 0 : $(href).offset().top - topMenuHeight + 32;
+			jQuery("html, body")
+				.stop()
+				.animate(
+					{
+						scrollTop: offsetTop,
+					},
+					1500
+				);
+			e.preventDefault();
+		}
+	});
+
 
 		// Bind to scroll
 		jQuery(window).scroll(function(){
