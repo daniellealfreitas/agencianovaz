@@ -1,6 +1,3 @@
-<?php
-define('SITE_KEY', '6LeWLa8UAAAAACh9IFmr0VWPkQH2c3p8piwypM3I');
-?>
 <!DOCTYPE html>
 <html lang="pt_BR">
 
