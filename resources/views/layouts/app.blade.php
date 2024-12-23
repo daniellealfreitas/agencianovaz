@@ -15,7 +15,7 @@
 
 
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title> @yield('title', 'Título padrão')</title>
+    <title> @yield('title', 'Novaz - Criação de Logotipos, Websites e Publicidade na Internet em Curitiba')</title>
 
     <link href="{{ asset('images/favicon.ico') }}" rel="shortcut icon" type="image/icon"  />
     <link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
@@ -104,5 +104,4 @@
         <script type="text/javascript" src="{{ asset('js/custom.js') }}"></script>
 
 </body>
-
 </html>
