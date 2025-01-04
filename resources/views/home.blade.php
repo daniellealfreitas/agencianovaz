@@ -320,38 +320,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/o_catarina-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/o_catarina-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/ocatarina.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>O Catarina Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/mao_amiga-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/mao_amiga-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/maoamiga.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Mão Amiga - Laguna-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                                 <div class="single-portfolio mix websites">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
@@ -396,6 +365,38 @@
                                             <div class="portfolio-title">
                                                 <h4>Criação de Website</h4>
                                                 <span>Hotel Zata - Criciúma-SC</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-portfolio mix branding">
+                                    <div class="single-item">
+                                        <img src="{{ asset('images/portfolio/logos/o_catarina-small.jpg') }}" alt="img">
+                                        <div class="single-item-content">
+                                            <div class="portfolio-social-icon">
+                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/o_catarina-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/ocatarina.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                            </div>
+                                            <div class="portfolio-title">
+                                                <h4>Criação de Logotipo</h4>
+                                                <span>O Catarina Florianópolis-SC</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="single-portfolio mix branding">
+                                    <div class="single-item">
+                                        <img src="{{ asset('images/portfolio/logos/mao_amiga-small.jpg') }}" alt="img">
+                                        <div class="single-item-content">
+                                            <div class="portfolio-social-icon">
+                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/mao_amiga-big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/maoamiga.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                            </div>
+                                            <div class="portfolio-title">
+                                                <h4>Criação de Logotipo</h4>
+                                                <span>Mão Amiga - Laguna-SC</span>
                                             </div>
                                         </div>
                                     </div>
