@@ -12,10 +12,10 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    TENHA    
-                    <span>WEBSITES</span>
-                    <span>LOJAS VIRTUAIS</span>
-                    <span>BLOGS</span>                    
+                    TENHA SEU  
+                    <span>WEBSITE</span>
+                    <span>LOJAS VIRTUAL</span>
+                    <span>BLOG</span>                    
                      NA INTERNET</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
@@ -42,104 +42,170 @@
     </div>
   </section>
 
-  <!-- Serviços Section -->
-  <section id="servicos" class="py-5">
+  <!-- Start service section-->
+  <section id="service">
     <div class="container">
-      <h2 class="text-center mb-4">Nossos Serviços</h2>
       <div class="row">
-        <div class="col-md-4">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Sites Institucionais</h5>
-              <p class="card-text">Criação de sites institucionais para empresas que buscam uma presença online forte e profissional.</p>
+        <div class="col-md-12">
+          <div class="service-area">
+            <div class="title-area">
+              <h2 class="tittle">Soluções</h2>
+              <span class="tittle-line"></span>
+              <p>Oferecemos soluções completas para impulsionar sua presença online.</p>
             </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Lojas Virtuais</h5>
-              <p class="card-text">Desenvolvimento completo de e-commerces integrados com métodos de pagamento e design moderno.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Portfólios Online</h5>
-              <p class="card-text">Ideal para profissionais que desejam apresentar seus trabalhos de maneira criativa e impactante.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+            <div class="service-content">
+              <ul class="service-table">
+               
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-sort-amount-asc service-icon"></span>
+                    <h4 class="service-title">Websites Institucionais</h4>
+                    <p>Criação de sites institucionais para empresas que buscam uma presença online forte e profissional.</p>
+                  </div>
+                  
+                </li>
+                <li class="col-md-3 col-sm-6">
+                 <div class="single-service wow slideInUp">
+                    <span class="fa fa-map-o service-icon"></span>
+                    <h4 class="service-title">Lojas Virtuais</h4>
+                    <p>Desenvolvimento completo de e-commerces integrados com métodos de pagamento e design moderno.</p>
 
-  <!-- Processo Section -->
-  <section id="processo" class="bg-light py-5">
-    <div class="container">
-      <h2 class="text-center mb-4">Nosso Processo</h2>
-      <div class="row">
-        <div class="col-md-3">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Briefing</h5>
-              <p class="card-text">Entendemos suas necessidades e objetivos para criar um site alinhado com sua visão.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Planejamento</h5>
-              <p class="card-text">Desenvolvemos o layout e as funcionalidades para garantir uma experiência única.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Desenvolvimento</h5>
-              <p class="card-text">Nossos programadores trazem o design à vida com tecnologia de ponta.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-3">
-          <div class="card shadow-sm">
-            <div class="card-body">
-              <h5 class="card-title">Lançamento e Suporte</h5>
-              <p class="card-text">Após o lançamento, oferecemos suporte contínuo para garantir o sucesso do site.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+                </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                    <div class="single-service wow slideInUp">
+                        <span class="fa fa-edit service-icon"></span>
+                        <h4 class="service-title">Redes Sociais</h4>
+                        <p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. </p>
+                    </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-rocket service-icon"></span>
+                    <h4 class="service-title">Portfólios Online</h4>
+                    <p>Ideal para profissionais que desejam apresentar seus trabalhos de maneira criativa e impactante.</p>
 
-  <!-- Vantagens Section -->
-  <section id="vantagens" class="py-5">
-    <div class="container">
-      <h2 class="text-center mb-4">Vantagens de Ter um Website Profissional</h2>
-      <div class="row">
-        <div class="col-md-6">
-          <h5>Credibilidade</h5>
-          <p>Um site bem desenvolvido transmite confiança para seus clientes, consolidando sua marca no mercado.</p>
-        </div>
-        <div class="col-md-6">
-          <h5>Acessibilidade 24/7</h5>
-          <p>Com um site, sua empresa estará disponível para todos, a qualquer hora do dia, aumentando suas chances de novos negócios.</p>
-        </div>
-        <div class="col-md-6">
-          <h5>Expansão de Alcance</h5>
-          <p>Um site pode ampliar significativamente seu público, atraindo novos clientes em diferentes regiões.</p>
-        </div>
-        <div class="col-md-6">
-          <h5>Personalização</h5>
-          <p>Um design sob medida permite que seu site reflita fielmente a identidade única do seu negócio.</p>
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </section>
+  </section> 
+
+  
+  <!-- Start processo section-->
+  <section id="service">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="service-area">
+            <div class="title-area">
+              <h2 class="tittle">Nosso Processo</h2>
+              <span class="tittle-line"></span>
+              <p>Oferecemos soluções completas para impulsionar sua presença online.</p>
+            </div>
+            <div class="service-content">
+              <ul class="service-table">
+               
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-sort-amount-asc service-icon"></span>
+                    <h4 class="service-title">Briefing</h4>
+                    <p>Entendemos suas necessidades e objetivos para criar um site alinhado com sua visão.</p>
+                  </div>
+                  
+                </li>
+                <li class="col-md-3 col-sm-6">
+                 <div class="single-service wow slideInUp">
+                    <span class="fa fa-map-o service-icon"></span>
+                    <h4 class="service-title">Planejamento</h4>
+                    <p>Desenvolvemos o layout e as funcionalidades para garantir uma experiência única.</p>
+
+                </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                    <div class="single-service wow slideInUp">
+                        <span class="fa fa-edit service-icon"></span>
+                        <h4 class="service-title">Desenvolvimento</h4>
+                        <p>Nossos programadores trazem o design à vida com tecnologia de ponta.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-rocket service-icon"></span>
+                    <h4 class="service-title">Lançamento e Suporte</h4>
+                    <p>Após o lançamento, oferecemos suporte contínuo para garantir o sucesso do site.</p>
+
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> 
+
+   
+  <!-- Start vantagens section-->
+  <section id="service">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="service-area">
+            <div class="title-area">
+              <h2 class="tittle">Vantagens de Ter um Website Profissional</h2>
+              <span class="tittle-line"></span>
+              <p></p>
+            </div>
+            <div class="service-content">
+              <ul class="service-table">
+               
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-sort-amount-asc service-icon"></span>
+                    <h4 class="service-title">Credibilidade</h4>
+                    <p>Um site bem desenvolvido transmite confiança para seus clientes, consolidando sua marca no mercado.</p>
+                  </div>
+                  
+                </li>
+                <li class="col-md-3 col-sm-6">
+                 <div class="single-service wow slideInUp">
+                    <span class="fa fa-map-o service-icon"></span>
+                    <h4 class="service-title">Acessibilidade 24/7</h4>
+                    <p>Com um site, sua empresa estará disponível para todos, a qualquer hora do dia, aumentando suas chances de novos negócios.</p>
+
+                </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                    <div class="single-service wow slideInUp">
+                        <span class="fa fa-edit service-icon"></span>
+                        <h4 class="service-title">Expansão de Alcance</h4>
+                        <<p>Um site pode ampliar significativamente seu público, atraindo novos clientes em diferentes regiões.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-rocket service-icon"></span>
+                    <h4 class="service-title">Personalização</h4>
+                    <p>Um design sob medida permite que seu site reflita fielmente a identidade única do seu negócio.</p>
+
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> 
+
 
  
   <!-- FAQ Section -->
@@ -188,100 +254,7 @@
                             </div>
 
                             <div id="mixit-container" class="portfolio-container">
-                                {{-- <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('/images/portfolio/logos/oticaredivo-big.jpg') }}"><i class="fa fa-eye"></i></a>
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/oticaredivo.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Ótica Redivo - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> --}}
-                                {{-- <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/inkjet-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/inkjet-big.jpg') }}"><i class="fa fa-eye"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Inkjet - Itajaí-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/cofee_and_beer-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/coffee_and_beer-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cofeeandbeer.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Coffee & Beer - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/cristiano_de_sa_small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <d   iv class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/cristiano_de_sa_big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cristianodesa.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Cristiano de Sá - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/o_catarina-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/o_catarina-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/ocatarina.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>O Catarina Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/mao_amiga-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/mao_amiga-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/maoamiga.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Mão Amiga - Laguna-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> --}}
-                                <div class="single-portfolio mix websites">
+                                 <div class="single-portfolio mix websites">
                                     <div class="single-item">
                                         <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
                                         <div class="single-item-content">
@@ -329,53 +302,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                {{-- <div class="single-portfolio mix publicidade_na_internet">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="https://www.facebook.com/HG-Solu%C3%A7%C3%B5es-Financeiras-961318787280334/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Publicidade na Internet</h4>
-                                                <span>HG Soluções Financeiras</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/bentoloveemaxwell-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Bento Love And Maxwell</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix outros">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/manipulacao_de_imagens/pense-sempre-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/manipulacao_de_imagens/pense_sempre-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Manipulação de Imagem</h4>
-                                                <span>Pense Sempre - Florianópolis</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> --}}
-
                             </div>
                         </div>
                     </div>
@@ -386,96 +312,7 @@
     <!-- End Portfolio section -->
 
 
-    {{-- <section id="testimonial">
-        <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
-        <div class="counter-overlay">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="testimonial-area">
-                            <div class="title-area">
-                                <h2 class="tittle">O que as pessoas dizem sobre a Novaz?</h2>
-                                <span class="tittle-line"></span>
-                            </div>
-                            <div class="testimonial-conten">
-                                <!-- Start testimonial slider -->
-                                <div class="testimonial-slider">
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Utilizo o Logotipo que a Novaz criou para apresentar meus trabalhos no Facebook. Faço cupcakes personalizados e ter uma marca me ajudou a sair da informalidade.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/paula_moretti.png') }}" alt="img">
-                                            <p>Paula Moretti</p>
-                                            <span>Cupcakes da Paula</span>
-                                        </div>
-                                    </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Contratei em 2012 o serviço de Website da Novaz e mudou meu negócio. Hoje 70% dos meus clientes vem do meu website, Recomendo.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/ivonei_s_cescon.png') }}" alt="img">
-                                            <p>Ivonei S. Cescon</p>
-                                            <span>WD Wall Divisórias</span>
-                                        </div>
-                                    </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>A Novaz desenvolveu o Manual da Marca que irei utilizar na minha ótica. fiquei satisfeito com a qualidade do trabalho.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/lucas_redivo.png') }}" alt="img">
-                                            <p>Lucas Redivo</p>
-                                            <span>Ótica Redivo</span>
-                                        </div>
-                                    </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Através do Website pude ter mais informações de onde os meus clientes vinham e qual o perfil deles. ajudou muito na tomada de decisões da minha empresa.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/fabiano_winiarski.png') }}" alt="img">
-                                            <p>Fabiano Winiarski</p>
-                                            <span>Performance Academia</span>
-                                        </div>
-                                    </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Fiquei impressionado com a agilidade do atendimento, atualizaram meu website antigo e obtive retorno de clientes que elogiaram o site.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/carlos_dropfish.png') }}" alt="img">
-                                            <p>Carlos</p>
-                                            <span>DropFish</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
-    <!-- End Testimonial section -->
 
-
-    {{-- <section id="client">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title-area">
-                        <h2 class="tittle">Clientes</h2>
-                    </div>
-                    <div class="client-area">
-                        <ul class="client-table">
-                            <li><img src="{{ asset('images/clientes/cupcakes-da-paula.png') }}" alt="Cupcakes da Paula"></li>
-                            <li><img src="{{ asset('images/clientes/wd_wall_divisorias.png') }}" alt="WD Wall Divisórias"></li>
-                            <li><img src="{{ asset('images/clientes/otica_redivo.png') }}" alt="Òtica Redivo"></li>
-                            <li><img src="{{ asset('images/clientes/hg_solucoes_financeiras2.png') }}" alt="HG Soluções Financeiras"></li>
-                            <li><img src="{{ asset('images/clientes/coffee_and_beer.png') }}" alt="Coffee & Beer"></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --}}
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">

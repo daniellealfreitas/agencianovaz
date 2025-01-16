@@ -205,22 +205,22 @@
                  <div class="single-service wow slideInUp">
                     <span class="fa fa-map-o service-icon"></span>
                     <h4 class="service-title">Lojas Virtuais</h4>
-<p>Desenvolvemos lojas virtuais completas, pensadas para  maximizar suas vendas. Com design moderno, integração de pagamento segura e gerenciamento fácil, criamos plataformas sob medida para impulsionar seu negócio online.</p>
+                    <p>Desenvolvemos lojas virtuais completas, pensadas para  maximizar suas vendas. Com design moderno, integração de pagamento segura e gerenciamento fácil, criamos plataformas sob medida para impulsionar seu negócio online.</p>
 
-                  </div>
-                </li>
-                <li class="col-md-3 col-sm-6">
-                    <div class="single-service wow slideInUp">
-                      <span class="fa fa-edit service-icon"></span>
-                      <h4 class="service-title">Redes Sociais</h4>
-<p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. Aumente sua visibilidade e conecte-se com o público certo através de campanhas personalizadas, posts dinâmicos e análises de performance que garantem resultados.</p>
+                                    </div>
+                                    </li>
+                                    <li class="col-md-3 col-sm-6">
+                                        <div class="single-service wow slideInUp">
+                                        <span class="fa fa-edit service-icon"></span>
+                                        <h4 class="service-title">Redes Sociais</h4>
+                    <p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. Aumente sua visibilidade e conecte-se com o público certo através de campanhas personalizadas, posts dinâmicos e análises de performance que garantem resultados.</p>
                     </div>
                   </li>
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-rocket service-icon"></span>
                     <h4 class="service-title">Criação Gráfica</h4>
-<p>Desenvolvemos peças gráficas criativas e profissionais. Seja para campanhas digitais, identidade visual ou materiais promocionais, nosso design impactante comunica suas ideias de forma clara e atraente, destacando sua marca no mercado.</p>
+                    <p>Desenvolvemos peças gráficas criativas e profissionais. Seja para campanhas digitais, identidade visual ou materiais promocionais, nosso design impactante comunica suas ideias de forma clara e atraente, destacando sua marca no mercado.</p>
 
                   </div>
                 </li>
