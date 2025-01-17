@@ -21,7 +21,8 @@
             <!-- Dropdown for Serviços -->
             <li class="dropdown">
               <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Serviços<span class="caret"></span></a>
-              <ul class="dropdown-menu">                
+              <ul class="dropdown-menu">     
+                <li><a href="{{ url('/services/assinatura') }}">Assinatura</a></li>           
                 <li><a href="{{ url('/services/websites') }}">Websites</a></li>
                 <li><a href="{{ url('/services/loja-virtual') }}">Loja Virtual</a></li>
                 <li><a href="{{ url('/services/midias-sociais') }}">Redes Sociais</a></li>
