@@ -20,11 +20,11 @@
   
             <!-- Dropdown for Serviços -->
             <li class="dropdown">
-              <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Soluções<span class="caret"></span></a>
+              <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Serviços<span class="caret"></span></a>
               <ul class="dropdown-menu">                
                 <li><a href="{{ url('/services/websites') }}">Websites</a></li>
                 <li><a href="{{ url('/services/loja-virtual') }}">Loja Virtual</a></li>
-                <li><a href="{{ url('/services/midias-sociais') }}">Midias Sociais</a></li>
+                <li><a href="{{ url('/services/midias-sociais') }}">Redes Sociais</a></li>
                 <li><a href="{{ url('/services/criacao-grafica') }}">Criação Gráfica</a></li>
               </ul>
             </li>  

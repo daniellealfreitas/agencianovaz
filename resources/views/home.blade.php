@@ -104,7 +104,7 @@
                             <div class="col-md-5 col-sm-6 col-xs-12">
                                 <div class="about-left wow fadeInLeft">
                                     <img src="{{ asset('images/about-img.jpg') }}" alt="img">
-                                    <a class="introduction-btn" href="#">Fundador</a>
+                                    <a class="introduction-btn" href="#">Daniel Novaz</a>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-6 col-xs-12">
@@ -112,7 +112,7 @@
                                     <div class="title-area">
                                         <h2 class="tittle">Sobre o <span>Profissional</span></h2>
                                         <span class="tittle-line"></span>
-                                        <p>Tenho <span>37 anos</span> nasci em São Paulo Capital. Resido atualmente em <span>Curitiba</span>. Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e Agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
+                                        <p>Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>Apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
                                             posições nos sites de busca como <span>Google.</span></p>
                                         <div class="about-btn-area">
                                             <a href="{{ url('/#contact') }}" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
@@ -134,7 +134,7 @@
         <div class="call-to-overlay">
             <div class="container">
                 <div class="call-to-content wow fadeInUp">
-                    <h2>Sua presença online está realmente funcionando? Peça uma análise gratuita agora.</h2>
+                    <h2>Sua presença online está funcionando? Peça uma análise agora.</h2>
                     <a href="{{ url('/#contact')}} " class="button button-default" data-text="Agora."><span>Solicitar Análise</span></a>
                 </div>
             </div>
@@ -186,7 +186,7 @@
         <div class="col-md-12">
           <div class="service-area">
             <div class="title-area">
-              <h2 class="tittle">Soluções</h2>
+              <h2 class="tittle">Serviços</h2>
               <span class="tittle-line"></span>
               <p>Oferecemos soluções completas para impulsionar sua presença online.</p>
             </div>
@@ -206,25 +206,22 @@
                     <span class="fa fa-map-o service-icon"></span>
                     <h4 class="service-title">Lojas Virtuais</h4>
                     <p>Desenvolvemos lojas virtuais completas, pensadas para  maximizar suas vendas. Com design moderno, integração de pagamento segura e gerenciamento fácil, criamos plataformas sob medida para impulsionar seu negócio online.</p>
-
-                                    </div>
-                                    </li>
-                                    <li class="col-md-3 col-sm-6">
-                                        <div class="single-service wow slideInUp">
-                                        <span class="fa fa-edit service-icon"></span>
-                                        <h4 class="service-title">Redes Sociais</h4>
-                    <p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. Aumente sua visibilidade e conecte-se com o público certo através de campanhas personalizadas, posts dinâmicos e análises de performance que garantem resultados.</p>
-                    </div>
-                  </li>
+                        </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                    <div class="single-service wow slideInUp">
+                    <span class="fa fa-edit service-icon"></span>
+                    <h4 class="service-title">Redes Sociais</h4>
+                    <p>Gerenciamos suas redes sociais com estratégias eficazes, conteúdo criativo e engajamento autêntico. Aumente sua visibilidade e conecte-se com o público certo através de campanhas personalizadas.</p>
+                </div>
+                </li>
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-rocket service-icon"></span>
                     <h4 class="service-title">Criação Gráfica</h4>
-                    <p>Desenvolvemos peças gráficas criativas e profissionais. Seja para campanhas digitais, identidade visual ou materiais promocionais, nosso design impactante comunica suas ideias de forma clara e atraente, destacando sua marca no mercado.</p>
-
+                    <p>Desenvolvemos peças gráficas criativas e profissionais.Seja identidade visual ou materiais promocionais, nosso design impactante comunica suas ideias de forma clara e atraente.</p>
                   </div>
                 </li>
-
               </ul>
             </div>
           </div>
@@ -243,17 +240,17 @@
                         <div class="title-area">
                             <h2 class="tittle">Portfolio</h2>
                             <span class="tittle-line"></span>
-                            <p>Abaixo você vai encontrar nossos ultimos trabalhos</p>
+                            <p>Nossos ultimos trabalhos</p>
                         </div>
                         <!-- Portfolio content -->
                         <div class="portfolio-content">
                             <!-- portfolio menu -->
                             <div class="portfolio-menu">
                                 <ul>
-                                    <li class="filter" data-filter="all">All</li>
+                                    <li class="filter" data-filter="all">Todos</li>
                                     <li class="filter" data-filter=".branding">Logotipos</li>
                                     <li class="filter" data-filter=".websites">Websites</li>
-                                    <li class="filter" data-filter=".publicidade_na_internet">Publicidade na Internet</li>
+                                    <li class="filter" data-filter=".redes_sociais">Redes Sociais</li>
                                     <li class="filter" data-filter=".outros">Outros</li>
                                 </ul>
                             </div>
@@ -266,7 +263,7 @@
                                             <div class="portfolio-social-icon">
                                                 <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/chico_pizzas-big.jpg') }}"><i class="fa fa-eye"></i></a>
 
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
+                                                <a class="link-btn" href="http://www.agencianovaz.com.br/public/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
                                             </div>
                                             <div class="portfolio-title">
                                                 <h4>Criação de Website</h4>
@@ -402,12 +399,12 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-portfolio mix publicidade_na_internet">
+                                <div class="single-portfolio mix redes_sociais">
                                     <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-small.jpg') }}" alt="img">
+                                        <img src="{{ asset('images/portfolio/redes_sociais/hgsolucoes-small.jpg') }}" alt="img">
                                         <div class="single-item-content">
                                             <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/publicidade_na_internet/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
+                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/redes_sociais/hgsolucoes-big.jpg') }}"><i class="fa fa-eye"></i></a>
 
                                                 <a class="link-btn" href="https://www.facebook.com/HG-Solu%C3%A7%C3%B5es-Financeiras-961318787280334/" target="_blank"><i class="fa fa-link"></i></a>
                                             </div>

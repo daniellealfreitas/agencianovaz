@@ -245,10 +245,9 @@
                             <!-- portfolio menu -->
                             <div class="portfolio-menu">
                                 <ul>
-                                    <li class="filter" data-filter="all">All</li>
-                                    <li class="filter" data-filter=".branding">Logotipos</li>
+                                    <li class="filter" data-filter="all">Todos</li>
                                     <li class="filter" data-filter=".websites">Websites</li>
-                                    <li class="filter" data-filter=".publicidade_na_internet">Publicidade na Internet</li>
+                                    <li class="filter" data-filter=".lojas_virtuais">Lojas Virtuais</li>
                                     <li class="filter" data-filter=".outros">Outros</li>
                                 </ul>
                             </div>

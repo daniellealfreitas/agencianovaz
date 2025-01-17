@@ -120,15 +120,15 @@
         <div class="call-to-overlay">
             <div class="container">
                 <div class="call-to-content wow fadeInUp">
-                    <h2>Sim, vale a pena investir na web.</h2>
-                    <a href="#contact" class="button button-default" data-text="Agora."><span>Investir</span></a>
+                    <h2>Me adiciona no whatsapp e vem curtir uma putaria. .</h2>
+                    <a href="#contact" class="button button-default" data-text="Agora."><span>48 98828-8309</span></a>
                 </div>
             </div>
         </div>
     </section>
     <!-- End call to action -->
 
-    <!-- Start Team action -->
+    <!-- Start Team action 
   <section id="team">
     <div class="container">
       <div class="row">
@@ -162,7 +162,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
 
 
     <!-- Start service section-->
