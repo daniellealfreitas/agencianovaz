@@ -303,6 +303,22 @@
                                 </div>
                                 <div class="single-portfolio mix branding">
                                     <div class="single-item">
+                                        <img src="{{ asset('images/portfolio/logos/cristiano_de_sa_small.jpg') }}" alt="img">
+                                        <div class="single-item-content">
+                                            <d   iv class="portfolio-social-icon">
+                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/cristiano_de_sa_big.jpg') }}"><i class="fa fa-eye"></i></a>
+
+                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cristianodesa.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
+                                            </div>
+                                            <div class="portfolio-title">
+                                                <h4>Criação de Logotipo</h4>
+                                                <span>Cristiano de Sá - Criciúma-SC</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>           
+                                <div class="single-portfolio mix branding">
+                                    <div class="single-item">
                                         <img src="{{ asset('images/portfolio/logos/cofee_and_beer-small.jpg') }}" alt="img">
                                         <div class="single-item-content">
                                             <div class="portfolio-social-icon">
@@ -317,23 +333,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="single-portfolio mix branding">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/cristiano_de_sa_small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <d   iv class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/logos/cristiano_de_sa_big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="{{ asset('images/portfolio/logos/cristianodesa.pdf') }}" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Logotipo</h4>
-                                                <span>Cristiano de Sá - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                
+                                                   
                                 
                                 <div class="single-portfolio mix websites">
                                     <div class="single-item">
