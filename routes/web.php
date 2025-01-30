@@ -33,6 +33,10 @@ Route::get('/services/detetive-particular', function () {
     return view('services.detetive-particular');
 })->name('services.detetive-particular');
 
+Route::get('/services/assinatura', function () {
+    return view('services.assinatura');
+})->name('services.assinatura');
+
 
 Route::get('/novazxxx/homexxx', function () {
     return view('novazxxx/homexxx');
