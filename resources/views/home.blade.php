@@ -205,7 +205,7 @@
                  <div class="single-service wow slideInUp">
                     <span class="fa fa-map-o service-icon"></span>
                     <h4 class="service-title">Lojas Virtuais</h4>
-                    <p>Desenvolvemos lojas virtuais completas, pensadas para  maximizar suas vendas. Com design moderno, integração de pagamento segura e gerenciamento fácil, criamos plataformas sob medida para impulsionar seu negócio online.</p>
+                    <p>Desenvolvemos lojas virtuais completas, pensadas para  maximizar suas vendas. Com design moderno, integração de pagamento segura e gerenciamento fácil, criamos plataformas sob medida.</p>
                         </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
