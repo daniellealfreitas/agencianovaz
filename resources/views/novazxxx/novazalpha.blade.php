@@ -51,29 +51,29 @@
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-users wc-icon"></span>
-                                        <h4 class="wc-tittle">Experiência</h4>
-                                        <p>A Novaz conta com profissionais com 20 anos de experiência. Especializados em suas áreas de atuação. Profissionais que além de tudo. Amam o que fazem.</p>
+                                        <h4 class="wc-tittle">Dominador </h4>
+                                        <p>Eu sou Dominador. gosto de fazer a parceira perder o controle gosto de dar ordens, comandos fazer com força mas sem machucar mas pegada forte. com vontade.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-sellsy wc-icon"></span>
-                                        <h4 class="wc-tittle">Inovação</h4>
-                                        <p>A Novaz utiliza em seus serviços as últimas tecnologias e tendências de sua área. se preocupando sempre em entregar a melhor solução aos problemas de publicidade de sua empresa.</p>
+                                        <h4 class="wc-tittle">Cuzinho Gape</h4>
+                                        <p>Amo cuzinho largo, adoro colocar de quatro e ver que a mulher já deu o cu pois isso mostra que ela é safada e eu quero a MAIS VADIA.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-line-chart wc-icon"></span>
-                                        <h4 class="wc-tittle">Eficiência</h4>
-                                        <p>Publicidade é muito mais que imagens e textos. é preciso saber diferenciar e identificar a melhor solução para determinado problema. isso é Design isso é o que a Novaz faz.</p>
+                                        <h4 class="wc-tittle">DOTADO</h4>
+                                        <p>Meu pau tem 17cm e é LINDO. é a minha parte do corpo favorita. entre dez o meu com certeza fica no Top 3.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-calendar wc-icon"></span>
-                                        <h4 class="wc-tittle">Compromisso</h4>
-                                        <p>A Novaz se orgulha do seu grande comprometimento com a qualidade do serviço e do cumprimento de seus prazos.
+                                        <h4 class="wc-tittle">Role Play</h4>
+                                        <p>Eu assumo um personagem dominante e amo o personagem submisso da mulher como se fosse uma escrava sexual o dever dela é me fazer gozar.
                                         </p>
                                     </div>
                                 </li>
@@ -96,12 +96,12 @@
                             <div class="col-md-7 col-sm-6 col-xs-12">
                                 <div class="about-right wow fadeInRight">
                                     <div class="title-area">
-                                        <h2 class="tittle">Sobre o <span>Fundador</span></h2>
+                                        <h2 class="tittle">Sobre o <span>Novaz</span></h2>
                                         <span class="tittle-line"></span>
-                                        <p>Tenho <span>36 anos</span> nasci em São Paulo Capital. Resido atualmente em <span>Curitiba</span>. Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e Agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
+                                        <p>Tenho <span>38 anos</span> nasci em São Paulo Capital. Resido atualmente em <span>Curitiba</span>. Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e Agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
                                             posições nos sites de busca como <span>Google.</span></p>
                                         <div class="about-btn-area">
-                                            <a href="#contact" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Fundador</span></a>
+                                            <a href="#contact" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Novaz</span></a>
                                         </div>
                                     </div>
                                 </div>
