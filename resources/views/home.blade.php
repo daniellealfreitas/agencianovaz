@@ -167,7 +167,7 @@
                   </div>
                   <div class="team-address">
                     <p>DANIEL L. FREITAS</p>
-                    <span>Diretor de Arte/Fundador.</span>
+                    <span>Diretor de Arte/.</span>
                   </div>
                 </li>
               </ul>
