@@ -181,22 +181,22 @@
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-edit service-icon"></span>
-                    <h4 class="service-title">UX Design</h4>
-                    <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
+                    <h4 class="service-title">ORAL</h4>
+                    <p>Adoro ser chupado e meter fundo na garganta. </p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-sort-amount-asc service-icon"></span>
-                    <h4 class="service-title">Strategy</h4>
-                    <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
+                    <h4 class="service-title">Garganta Profunda</h4>
+                    <p>Pode meter forte e fundo na minha garganta</p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
                  <div class="single-service wow slideInUp">
                     <span class="fa fa-map-o service-icon"></span>
-                    <h4 class="service-title">UI Design</h4>
-                    <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
+                    <h4 class="service-title">Engulo porra</h4>
+                    <p>Goza na minha cara na boca que eu gargarejo e engulo</p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
