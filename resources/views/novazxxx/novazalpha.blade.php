@@ -8,7 +8,7 @@
  <header id="header">
     <div class="header-inner">
         <!-- Header image -->
-        <img src="{{  asset('images/header-bg.jpg') }}" alt="img" />
+        <img src="{{  asset('images/header-novaz_alpha.jpg') }}" alt="img" />
         <div class="header-overlay">
             <div class="header-content">
                 <!-- Start header content slider -->
@@ -183,7 +183,7 @@
                     <span class="fa fa-edit service-icon"></span>
                     <h4 class="service-title">ORAL</h4>
                     <p>Adoro ser chupado e meter fundo na garganta. </p>
-                  </div>
+                  </div>    
                 </li>
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
