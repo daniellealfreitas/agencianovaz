@@ -89,8 +89,8 @@
                         <div class="row">
                             <div class="col-md-5 col-sm-6 col-xs-12">
                                 <div class="about-left wow fadeInLeft">
-                                    <img src="{{ asset('images/about-img.jpg') }}" alt="img">
-                                    <a class="introduction-btn" href="#">Fundador</a>
+                                    <img src="{{ asset('images/profile_novazalpha.jpg') }}" alt="img">
+                                    <a class="introduction-btn" href="#">Daniel Novaz</a>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-6 col-xs-12">
@@ -121,7 +121,7 @@
             <div class="container">
                 <div class="call-to-content wow fadeInUp">
                     <h2>Me adiciona no whatsapp e vem curtir uma putaria. .</h2>
-                    <a href="#contact" class="button button-default" data-text="Agora."><span>48 98828-8309</span></a>
+                    <a href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" target="blank" class="button button-default" data-text="Agora."><span>48 98828-8309</span></a>
                 </div>
             </div>
         </div>
