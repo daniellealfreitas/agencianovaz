@@ -172,9 +172,9 @@
         <div class="col-md-12">
           <div class="service-area">
             <div class="title-area">
-              <h2 class="tittle">Service we offer</h2>
+              <h2 class="tittle">Serviços e Fetiches</h2>
               <span class="tittle-line"></span>
-              <p>perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore</p>
+              <p>Qual seu fetiche mais safado? EU REALIZO. Liberte seus desejos e vem aproveitar o que a vida tem de melhor.</p>
             </div>
             <div class="service-content">
               <ul class="service-table">
@@ -202,8 +202,8 @@
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-rocket service-icon"></span>
-                    <h4 class="service-title">Analystic</h4>
-                    <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
+                    <h4 class="service-title">Anal </h4>
+                    <p>Sou versátil pode meter no meu cuzinho e arregaçar e adoro um cuzinho lisinho</p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
