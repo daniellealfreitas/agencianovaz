@@ -85,7 +85,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>Copyright - 2024</p>
+                <p>Copyright - 2025</p>
             </div>
         </footer>
     </section>
