@@ -250,9 +250,9 @@
                 <div class="col-md-12">
                     <div class="portfolio-area">
                         <div class="title-area">
-                            <h2 class="tittle">Portfolio</h2>
+                            <h2 class="tittle">Vídeos</h2>
                             <span class="tittle-line"></span>
-                            <p>Abaixo você vai encontrar nossos ultimos trabalhos</p>
+                            <p>Meus videos amadores. vem gravar comigo. </p>
                         </div>
                         <!-- Portfolio content -->
                         <div class="portfolio-content">
@@ -269,8 +269,10 @@
 
                             <div id="mixit-container" class="portfolio-container">
                                 <div class="single-portfolio mix branding">
+
                                     <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img">
+                                        <iframe src="https://www.xvideos.com/embedframe/ottcmdh35ac" frameborder=0 width=510 height=400 scrolling=no allowfullscreen=allowfullscreen></iframe> 
+                                        {{-- <img src="{{ asset('images/portfolio/logos/oticaredivo-small.jpg') }}" alt="img"> --}}
                                         <div class="single-item-content">
                                             <div class="portfolio-social-icon">
                                                 <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('') }}assets/images/portfolio/logos/oticaredivo-big.jpg"><i class="fa fa-eye"></i></a>
