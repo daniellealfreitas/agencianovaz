@@ -569,7 +569,7 @@
                                 <h2 class="tittle">O que as pessoas dizem sobre a Novaz?</h2>
                                 <span class="tittle-line"></span>
                             </div>
-                            <div class="testimonial-conten">
+                            <div class="testimonial-content ">
                                 <!-- Start testimonial slider -->
                                 <div class="testimonial-slider">
                                     <!-- single slide -->
