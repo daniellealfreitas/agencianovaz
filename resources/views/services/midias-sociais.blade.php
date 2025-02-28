@@ -605,7 +605,7 @@
         </div>
     </section> --}}
 
-    {{-- <section id="testimonial">
+     <section id="testimonial">
         <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
         <div class="counter-overlay">
             <div class="container">
@@ -671,11 +671,11 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section> 
     <!-- End Testimonial section -->
 
 
-    {{-- <section id="client">
+     <section id="client">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -694,7 +694,7 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section> 
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">
