@@ -4,8 +4,6 @@
 
 @section('header')
  <!-- Start header section -->
-
-
  <header id="header">
     <div class="header-inner">
         <!-- Header image -->
@@ -141,43 +139,6 @@
         </div>
     </section>
     <!-- End call to action -->
-
-    <!-- Start Team action 
-  <section id="team">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="team-area">
-            <div class="title-area">
-              <h2 class="tittle">O Fundador</h2>
-              <span class="tittle-line"></span>
-              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto</p>
-            </div>
-            <div class="team-content">
-              <ul class="team-grid">
-                <li>
-                  <div class="team-item team-img-3 wow fadeInUp">
-                    <div class="team-info">
-                      <p>Meu Sonho é de um Futuro aonde TODAS as empresas estejam na internet. Que tal colocar a sua?</p>
-                      <a href="#"><span class="fa fa-facebook"></span></a>
-                      <a href="#"><span class="fa fa-twitter"></span></a>
-                      <a href="#"><span class="fa fa-pinterest"></span></a>
-                      <a href="#"><span class="fa fa-rss"></span></a>
-                    </div>
-                  </div>
-                  <div class="team-address">
-                    <p>DANIEL L. FREITAS</p>
-                    <span>Diretor de Arte/.</span>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
--->
 
     <!-- Start service section-->
    <section id="service">
@@ -597,7 +558,7 @@
         </div>
     </section>
 
-    <section id="testimonial">
+     <section id="testimonial">
         <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
         <div class="counter-overlay">
             <div class="container">
@@ -663,11 +624,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
     <!-- End Testimonial section -->
 
 
-    <section id="client">
+     <section id="client">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -686,7 +647,8 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> 
+    
     <!-- Start Contact section -->
     <section id="contact">
         <div class="container">
@@ -706,28 +668,6 @@
                 </div>
                 <div class="col-md-8 col-sm-6 col-xs-12">
                     <x-contact-form />
-                    {{-- <div class="contact-right wow fadeInRight">
-                        <h2>Envie uma mensagem</h2>
-                        <form action="{{ route('envia.contato') }}" class="contact-form" method="POST">
-                            @csrf
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Nome" name="nomecompleto" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Telefone" name="telefone">
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email" name="email" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea class="form-control" placeholder="Mensagem" name="mensagem" required></textarea>
-                            </div>
-                            <button type="submit" data-text="Enviar" class="button button-default"><span>Enviar</span></button>
-                        </form>
-                        
-                       
-                        
-                    </div> --}}
                 </div>
             </div>
         </div>

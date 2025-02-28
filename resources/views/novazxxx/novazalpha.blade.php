@@ -209,15 +209,15 @@
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-car service-icon"></span>
-                    <h4 class="service-title">Usibility</h4>
+                    <h4 class="service-title">Dominador</h4>
                     <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
                   <div class="single-service wow slideInUp">
                     <span class="fa fa-bank service-icon"></span>
-                    <h4 class="service-title">Business solution</h4>
-                    <p>At vero eos et accusa mus odio in dignissimos ducimus qui anditiis the tatum</p>
+                    <h4 class="service-title">QUERO COMER</h4>
+                    <p>Será que eu consigo comer minha professora da quinta série?</p>
                   </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
