@@ -468,154 +468,152 @@
         </div>
     </section>
 
-    <!-- Start Pricing Table section -->
-    <section id="pricing-table">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="pricing-table-area">
-                        <div class="title-area">
-                            <h2 class="tittle">Investimento</h2>
-                            <span class="tittle-line"></span>
-                            <p>Conheça e escolha um dos nossos serviços para começarmos a alavancar suas vendas.</p>
-                        </div>
-                        <!-- service content -->
-                        <div class="pricing-table-content">
-
-                            <ul class="price-table">
-                                <li class="wow slideInUp">
-                                    <div class="single-price">
-                                        <h4 class="price-header">Logotipo</h4>
-                                        <span class="price-amount">2x de R$250.00</span>
-                                        <p>Identidade Visual Completa</p>
-                                        <p>1 a 3 esboços no pacote inicial</p>
-                                        <p>2 Revisões do esboço</p>
-                                        <p>Manual da Marca</p>
-                                        <p>Entrega em 5 dias utéis</p>
-                                        <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-                                        <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
-                                            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-                                            <input type="hidden" name="code" value="8E0C8E8D9F9FD111149A6FA3D8827E05" />
-                                            <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                                        </form>
-                                        </a>
-                                    </div>
-                                </li>
-                                <li class="wow slideInUp">
-                                    <div class="single-price standard-price">
-                                        <h4 class="price-header">Website</h4>
-                                        <span class="price-amount">4x de R$325.00</span>
-                                        <p>Layout Personalizado</p>
-                                        <p>Website Responsivo</p>
-                                        <p>Gerenciador de conteúdo</p>
-                                        <p>Sua empresa aberta 24 Horas</p>
-                                        <p>Sua Empresa no Google.</p>
-                                        <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-                                        <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
-                                            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-                                            <input type="hidden" name="code" value="69A460813D3DF0E0041FAFB099B76B2E" />
-                                            <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                                        </form>
-                                        <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-                                    </div>
-                                </li>
-                                <li class="wow slideInUp">
-                                    <div class="single-price">
-                                        <h4 class="price-header">Registro de Dominio</h4>
-                                        <span class="price-amount">A vista R$60.00</span>
-                                        <p>www.suaempresa.com.br</p>
-                                        <p>contato@suaempresa.com.br</p>
-                                        <p>Sua empresa aberta 24 Horas.</p>
-                                        <p>Sua Empresa no Google.</p>
-                                        <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
-                                        <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
-                                            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-                                            <input type="hidden" name="code" value="D3C7649A5555438AA497BFBB478FD453" />
-                                            <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                                        </form>
-                                        <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
-                                    </div>
-                                </li>
-                                <li class="wow slideInUp">
-                                    <div class="single-price">
-                                        <h4 class="price-header">Social Media</h4>
-                                        <span class="price-amount">2x de R$150.00</span>
-                                        <p>Capa para Facebook</p>
-                                        <p>Capa para Twitter</p>
-                                        <p>Google Meu Negócio</p>
-                                        <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
-                                            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
-                                            <input type="hidden" name="code" value="B44E53FBE2E2EBA55431FF832AFAC8FE" />
-                                            <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
-                                        </form>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
+ <!-- Start Pricing Table section -->
+ <section id="pricing-table">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="pricing-table-area">
+                    <div class="title-area">
+                        <h2 class="tittle">Investimento</h2>
+                        <span class="tittle-line"></span>
+                        <p>Conheça e escolha um dos nossos serviços para começarmos a alavancar suas vendas.</p>
+                    </div>
+                    <!-- service content -->
+                    <div class="pricing-table-content">
+                        <ul class="price-table">
+                            <li class="wow slideInUp">
+                                <div class="single-price">
+                                    <h4 class="price-header">Logotipo</h4>
+                                    <span class="price-amount">2x de R$250.00</span>
+                                    <p>Identidade Visual Completa</p>
+                                    <p>1 a 3 esboços no pacote inicial</p>
+                                    <p>2 Revisões do esboço</p>
+                                    <p>Manual da Marca</p>
+                                    <p>Entrega em 5 dias utéis</p>
+                                    <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                                    <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
+                                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                                        <input type="hidden" name="code" value="8E0C8E8D9F9FD111149A6FA3D8827E05" />
+                                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                                    </form>
+                                    </a>
+                                </div>
+                            </li>
+                            <li class="wow slideInUp">
+                                <div class="single-price standard-price">
+                                    <h4 class="price-header">Website</h4>
+                                    <span class="price-amount">4x de R$325.00</span>
+                                    <p>Layout Personalizado</p>
+                                    <p>Website Responsivo</p>
+                                    <p>Gerenciador de conteúdo</p>
+                                    <p>Sua empresa aberta 24 Horas</p>
+                                    <p>Sua Empresa no Google.</p>
+                                    <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                                    <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
+                                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                                        <input type="hidden" name="code" value="69A460813D3DF0E0041FAFB099B76B2E" />
+                                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                                    </form>
+                                    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+                                </div>
+                            </li>
+                            <li class="wow slideInUp">
+                                <div class="single-price">
+                                    <h4 class="price-header">Registro de Dominio</h4>
+                                    <span class="price-amount">A vista R$60.00</span>
+                                    <p>www.suaempresa.com.br</p>
+                                    <p>contato@suaempresa.com.br</p>
+                                    <p>Sua empresa aberta 24 Horas.</p>
+                                    <p>Sua Empresa no Google.</p>
+                                    <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                                    <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
+                                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                                        <input type="hidden" name="code" value="D3C7649A5555438AA497BFBB478FD453" />
+                                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                                    </form>
+                                    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+                                </div>
+                            </li>
+                            <li class="wow slideInUp">
+                                <div class="single-price">
+                                    <h4 class="price-header">Social Media</h4>
+                                    <span class="price-amount">2x de R$150.00</span>
+                                    <p>Capa para Facebook</p>
+                                    <p>Capa para Twitter</p>
+                                    <p>Google Meu Negócio</p>
+                                    <form action="https://pagseguro.uol.com.br/v2/pre-approvals/request.html" method="post">
+                                        <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                                        <input type="hidden" name="code" value="B44E53FBE2E2EBA55431FF832AFAC8FE" />
+                                        <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/assinaturas/120x53-contratar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                                    </form>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-     <section id="testimonial">
-        <img src=" {{ asset('images/testimonial-bg.jpg') }}" alt="img">
-        <div class="counter-overlay">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="testimonial-area">
-                            <div class="title-area">
-                                <h2 class="tittle">O que as pessoas dizem sobre a Novaz?</h2>
-                                <span class="tittle-line"></span>
-                            </div>
-                            <div class="testimonial-content">
-                                <!-- Start testimonial slider -->
-                                <div class="testimonial-slider">
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Utilizo o Logotipo que a Novaz criou para apresentar meus trabalhos no Facebook. Faço cupcakes personalizados e ter uma marca me ajudou a sair da informalidade.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/paula_moretti.png') }}" alt="img">
-                                            <p>Paula Moretti</p>
-                                            <span>Cupcakes da Paula</span>
-                                        </div>
+<section id="testimonial">
+    <img src="assets/images/testimonial-bg.jpg" alt="img">
+    <div class="counter-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonial-area">
+                        <div class="title-area">
+                            <h2 class="tittle">O que as pessoas dizem sobre a Novaz?</h2>
+                            <span class="tittle-line"></span>
+                        </div>
+                        <div class="testimonial-conten">
+                            <!-- Start testimonial slider -->
+                            <div class="testimonial-slider">
+                                <!-- single slide -->
+                                <div class="single-slide">
+                                    <p>Utilizo o Logotipo que a Novaz criou para apresentar meus trabalhos no Facebook. Faço cupcakes personalizados e ter uma marca me ajudou a sair da informalidade.</p>
+                                    <div class="single-testimonial">
+                                        <img class="testimonial-thumb" src="assets/images/testemunhos/paula_moretti.png" alt="img">
+                                        <p>Paula Moretti</p>
+                                        <span>Cupcakes da Paula</span>
                                     </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Contratei em 2012 o serviço de Website da Novaz e mudou meu negócio. Hoje 70% dos meus clientes vem do meu website, Recomendo.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/ivonei_s_cescon.png') }}" alt="img">
-                                            <p>Ivonei S. Cescon</p>
-                                            <span>WD Wall Divisórias</span>
-                                        </div>
+                                </div>
+                                <!-- single slide -->
+                                <div class="single-slide">
+                                    <p>Contratei em 2012 o serviço de Website da Novaz e mudou meu negócio. Hoje 70% dos meus clientes vem do meu website, Recomendo.</p>
+                                    <div class="single-testimonial">
+                                        <img class="testimonial-thumb" src="assets/images/testemunhos/ivonei_s_cescon.png" alt="img">
+                                        <p>Ivonei S. Cescon</p>
+                                        <span>WD Wall Divisórias</span>
                                     </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>A Novaz desenvolveu o Manual da Marca que irei utilizar na minha ótica. fiquei satisfeito com a qualidade do trabalho.</p>
-                                        <div class="single-testimonial">
+                                </div>
+                                <!-- single slide -->
+                                <div class="single-slide">
+                                    <p>A Novaz desenvolveu o Manual da Marca que irei utilizar na minha ótica. fiquei satisfeito com a qualidade do trabalho.</p>
+                                    <div class="single-testimonial">
                                             <img class="testimonial-thumb" src="{{ asset('images/testemunhos/lucas_redivo.png') }}" alt="img">
-                                            <p>Lucas Redivo</p>
-                                            <span>Ótica Redivo</span>
-                                        </div>
+                                        <p>Lucas Redivo</p>
+                                        <span>Ótica Redivo</span>
                                     </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Através do Website pude ter mais informações de onde os meus clientes vinham e qual o perfil deles. ajudou muito na tomada de decisões da minha empresa.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/fabiano_winiarski.png') }}" alt="img">
-                                            <p>Fabiano Winiarski</p>
-                                            <span>Performance Academia</span>
-                                        </div>
+                                </div>
+                                <!-- single slide -->
+                                <div class="single-slide">
+                                    <p>Através do Website pude ter mais informações de onde os meus clientes vinham e qual o perfil deles. ajudou muito na tomada de decisões da minha empresa.</p>
+                                    <div class="single-testimonial">
+                                        <img class="testimonial-thumb" src="assets/images/testemunhos/fabiano_winiarski.png" alt="img">
+                                        <p>Fabiano Winiarski</p>
+                                        <span>Performance Academia</span>
                                     </div>
-                                    <!-- single slide -->
-                                    <div class="single-slide">
-                                        <p>Fiquei impressionado com a agilidade do atendimento, atualizaram meu website antigo e obtive retorno de clientes que elogiaram o site.</p>
-                                        <div class="single-testimonial">
-                                            <img class="testimonial-thumb" src="{{ asset('images/testemunhos/carlos_dropfish.png') }}" alt="img">
-                                            <p>Carlos</p>
-                                            <span>DropFish</span>
-                                        </div>
+                                </div>
+                                <!-- single slide -->
+                                <div class="single-slide">
+                                    <p>Fiquei impressionado com a agilidade do atendimento, atualizaram meu website antigo e obtive retorno de clientes que elogiaram o site.</p>
+                                    <div class="single-testimonial">
+                                        <img class="testimonial-thumb" src="assets/images/testemunhos/carlos_dropfish.png" alt="img">
+                                        <p>Carlos</p>
+                                        <span>DropFish</span>
                                     </div>
                                 </div>
                             </div>
@@ -624,30 +622,32 @@
                 </div>
             </div>
         </div>
-    </section> 
-    <!-- End Testimonial section -->
+    </div>
+</section>
+<!-- End Testimonial section -->
 
 
-     <section id="client">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="title-area">
-                        <h2 class="tittle">Clientes</h2>
-                    </div>
-                    <div class="client-area">
-                        <ul class="client-table">
-                            <li><img src="{{ asset('images/clientes/cupcakes-da-paula.png') }}" alt="Cupcakes da Paula"></li>
-                            <li><img src="{{ asset('images/clientes/wd_wall_divisorias.png') }}" alt="WD Wall Divisórias"></li>
-                            <li><img src="{{ asset('images/clientes/otica_redivo.png') }}" alt="Òtica Redivo"></li>
-                            <li><img src="{{ asset('images/clientes/hg_solucoes_financeiras2.png') }}" alt="HG Soluções Financeiras"></li>
-                            <li><img src="{{ asset('images/clientes/coffee_and_beer.png') }}" alt="Coffee & Beer"></li>
-                        </ul>
-                    </div>
+<section id="client">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="title-area">
+                    <h2 class="tittle">Clientes</h2>
+                </div>
+                <div class="client-area">
+                    <ul class="client-table">
+                        <li><img src="assets/images/clientes/cupcakes-da-paula.png" alt="Cupcakes da Paula"></li>
+                        <li><img src="assets/images/clientes/wd_wall_divisorias.png" alt="WD Wall Divisórias"></li>
+                        <li><img src="assets/images/clientes/otica_redivo.png" alt="Òtica Redivo"></li>
+                        <li><img src="assets/images/clientes/hg_solucoes_financeiras2.png" alt="HG Soluções Financeiras"></li>
+                        <li><img src="assets/images/clientes/coffee_and_beer.png" alt="Coffee & Beer"></li>
+                    </ul>
                 </div>
             </div>
         </div>
-    </section> 
+    </div>
+</section>
+
     
     <!-- Start Contact section -->
     <section id="contact">
