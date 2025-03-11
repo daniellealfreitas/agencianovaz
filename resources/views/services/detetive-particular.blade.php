@@ -277,21 +277,7 @@
                 <div class="col-md-8 col-sm-6 col-xs-12">
                     <div class="contact-right wow fadeInRight">
                         <h2>Envie uma mensagem</h2>
-                        <form action="controllers/envia_contato.php" class="contact-form" method="post">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Nome" name="nomecompleto" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Telefone" name="telefone">
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email" name="email" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea class="form-control" placeholder="Mensagem" name="mensagem"></textarea>
-                            </div>
-                            
-                            <button type="submit" data-text="Enviar" class="button button-default"><span>Enviar</span></button>
+                        <x-contact-form />
                         </form>
                     </div>
                 </div>

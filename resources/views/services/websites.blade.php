@@ -32,15 +32,97 @@
 
 @section('content')
 
+    <!-- Start about section -->
+    <section id="about">
+      <div class="container">
 
-<!-- Hero Section -->
-<section class="bg-primary text-white text-center py-5">
-    <div class="container">
-      <h1>Transforme Seu Negócio com um Website Profissional</h1>
-      <p class="lead">Na NOVAZ, criamos websites que combinam design, funcionalidade e performance para destacar sua marca online.</p>
-      <a href="#contato" class="btn btn-light btn-lg">Solicite um Orçamento</a>
-    </div>
+          <div class="row">
+              <div class="col-md-12">
+                  <div class="about-area">
+                      <div class="row">
+                          <div class="col-md-5 col-sm-6 col-xs-12">
+                              <div class="about-left wow fadeInLeft">
+                                  <img src="{{ asset('images/about-img.jpg') }}" alt="img">
+                                  {{-- <a class="introduction-btn" href="#">Daniel Novaz</a> --}}
+                              </div>
+                          </div>
+                          <div class="col-md-7 col-sm-6 col-xs-12">
+                              <div class="about-right wow fadeInRight">
+                                  <div class="title-area">
+                                      <h2 class="tittle">Transforme Seu Negócio </span></h2>
+                                      <span class="tittle-line">com um Website Profissional</span>
+                                      <p>a NOVAZ, criamos websites que combinam design, funcionalidade e performance para destacar sua marca online.</p>
+                                      <div class="about-btn-area">
+                                          <a href="{{ url('/#contact') }}" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
   </section>
+  <!-- End about section -->
+
+
+ 
+  <!-- Start processo section-->
+  <section id="service">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="service-area">
+            <div class="title-area">
+              <h2 class="tittle">Nosso Processo</h2>
+              <span class="tittle-line"></span>
+              <p>Oferecemos soluções completas para impulsionar sua presença online.</p>
+            </div>
+            <div class="service-content">
+              <ul class="service-table">
+               
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-sort-amount-asc service-icon"></span>
+                    <h4 class="service-title">Briefing</h4>
+                    <p>Entendemos suas necessidades e objetivos para criar um site alinhado com sua visão.</p>
+                  </div>
+                  
+                </li>
+                <li class="col-md-3 col-sm-6">
+                 <div class="single-service wow slideInUp">
+                    <span class="fa fa-map-o service-icon"></span>
+                    <h4 class="service-title">Planejamento</h4>
+                    <p>Desenvolvemos o layout e as funcionalidades para garantir uma experiência única.</p>
+
+                </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                    <div class="single-service wow slideInUp">
+                        <span class="fa fa-edit service-icon"></span>
+                        <h4 class="service-title">Desenvolvimento</h4>
+                        <p>Nossos programadores trazem o design à vida com tecnologia de ponta.</p>
+                    </div>
+                </li>
+                <li class="col-md-3 col-sm-6">
+                  <div class="single-service wow slideInUp">
+                    <span class="fa fa-rocket service-icon"></span>
+                    <h4 class="service-title">Lançamento e Suporte</h4>
+                    <p>Após o lançamento, oferecemos suporte contínuo para garantir o sucesso do site.</p>
+
+                  </div>
+                </li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> 
+
+
 
   <!-- Start service section-->
   <section id="service">
@@ -96,61 +178,7 @@
     </div>
   </section> 
 
-  
-  <!-- Start processo section-->
-  <section id="service">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="service-area">
-            <div class="title-area">
-              <h2 class="tittle">Nosso Processo</h2>
-              <span class="tittle-line"></span>
-              <p>Oferecemos soluções completas para impulsionar sua presença online.</p>
-            </div>
-            <div class="service-content">
-              <ul class="service-table">
-               
-                <li class="col-md-3 col-sm-6">
-                  <div class="single-service wow slideInUp">
-                    <span class="fa fa-sort-amount-asc service-icon"></span>
-                    <h4 class="service-title">Briefing</h4>
-                    <p>Entendemos suas necessidades e objetivos para criar um site alinhado com sua visão.</p>
-                  </div>
-                  
-                </li>
-                <li class="col-md-3 col-sm-6">
-                 <div class="single-service wow slideInUp">
-                    <span class="fa fa-map-o service-icon"></span>
-                    <h4 class="service-title">Planejamento</h4>
-                    <p>Desenvolvemos o layout e as funcionalidades para garantir uma experiência única.</p>
-
-                </div>
-                </li>
-                <li class="col-md-3 col-sm-6">
-                    <div class="single-service wow slideInUp">
-                        <span class="fa fa-edit service-icon"></span>
-                        <h4 class="service-title">Desenvolvimento</h4>
-                        <p>Nossos programadores trazem o design à vida com tecnologia de ponta.</p>
-                    </div>
-                </li>
-                <li class="col-md-3 col-sm-6">
-                  <div class="single-service wow slideInUp">
-                    <span class="fa fa-rocket service-icon"></span>
-                    <h4 class="service-title">Lançamento e Suporte</h4>
-                    <p>Após o lançamento, oferecemos suporte contínuo para garantir o sucesso do site.</p>
-
-                  </div>
-                </li>
-
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> 
-
+ 
    
   <!-- Start vantagens section-->
   <section id="service">
@@ -186,7 +214,7 @@
                     <div class="single-service wow slideInUp">
                         <span class="fa fa-edit service-icon"></span>
                         <h4 class="service-title">Expansão de Alcance</h4>
-                        <<p>Um site pode ampliar significativamente seu público, atraindo novos clientes em diferentes regiões.</p>
+                        <p>Um site pode ampliar significativamente seu público, atraindo novos clientes em diferentes regiões.</p>
                     </div>
                 </li>
                 <li class="col-md-3 col-sm-6">
@@ -229,87 +257,6 @@
     </div>
   </section>
 
-    <!-- Start Portfolio section -->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="portfolio-area">
-                        <div class="title-area">
-                            <h2 class="tittle">Portfolio</h2>
-                            <span class="tittle-line"></span>
-                            <p>Abaixo você vai encontrar nossos ultimos trabalhos</p>
-                        </div>
-                        <!-- Portfolio content -->
-                        <div class="portfolio-content">
-                            <!-- portfolio menu -->
-                            <div class="portfolio-menu">
-                                <ul>
-                                    <li class="filter" data-filter="all">Todos</li>
-                                    <li class="filter" data-filter=".websites">Websites</li>
-                                    <li class="filter" data-filter=".lojas_virtuais">Lojas Virtuais</li>
-                                    <li class="filter" data-filter=".outros">Outros</li>
-                                </ul>
-                            </div>
-
-                            <div id="mixit-container" class="portfolio-container">
-                                 <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/chico_pizzas-small.jpg') }} " alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/chico_pizzas-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/chico_pizzas/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Chico Pizzas - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/cupcakes-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/cupcakes-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/cupcakesdapaula/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Cupcakes da Paula - Florianópolis-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="single-portfolio mix websites">
-                                    <div class="single-item">
-                                        <img src="{{ asset('images/portfolio/website/hotel-zata-small.jpg') }}" alt="img">
-                                        <div class="single-item-content">
-                                            <div class="portfolio-social-icon">
-                                                <a class="fancybox" data-fancybox-group="gallery" href="{{ asset('images/portfolio/website/hotel-zata-big.jpg') }}"><i class="fa fa-eye"></i></a>
-
-                                                <a class="link-btn" href="http://www.novaz.com.br/demo/hotel_zata/" target="_blank"><i class="fa fa-link"></i></a>
-                                            </div>
-                                            <div class="portfolio-title">
-                                                <h4>Criação de Website</h4>
-                                                <span>Hotel Zata - Criciúma-SC</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Portfolio section -->
-
 
 
     <!-- Start Contact section -->
@@ -332,22 +279,7 @@
                 <div class="col-md-8 col-sm-6 col-xs-12">
                     <div class="contact-right wow fadeInRight">
                         <h2>Envie uma mensagem</h2>
-                        <form action="controllers/envia_contato.php" class="contact-form" method="post">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Nome" name="nomecompleto" required>
-                            </div>
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Telefone" name="telefone">
-                            </div>
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Email" name="email" required>
-                            </div>
-                            <div class="form-group">
-                                <textarea class="form-control" placeholder="Mensagem" name="mensagem"></textarea>
-                            </div>
-                            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response" />
-                            <button type="submit" data-text="Enviar" class="button button-default"><span>Enviar</span></button>
-                        </form>
+                        <x-contact-form />
                     </div>
                 </div>
             </div>

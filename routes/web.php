@@ -7,6 +7,15 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/blog', function () {
+    return view('blog-archive');
+});
+Route::get('/blog-single', function () {
+    return view('blog-single');
+});
+
+
+
 
 Route::get('profile', function () {
     return view('profile');
