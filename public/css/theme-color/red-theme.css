@@ -48,7 +48,7 @@ Author URI : http://www.markups.io/
   border-bottom: 2px solid #ee4532;  
 }
 .about-left {
-  background-color: #ee4532;  
+  /* background-color: #ee4532;   */
 }
 .button-default {  
   border: 2px solid #ee4532 !important;
