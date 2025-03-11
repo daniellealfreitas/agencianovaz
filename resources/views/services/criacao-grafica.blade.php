@@ -117,16 +117,16 @@
             <div class="row">
                 @php
                     $produtos = [
-                        ['nome' => 'Cartão de Visita', 'preco' => 'R$ 50,00', 'descricao' => 'Impressão de cartões de visita personalizados.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Panfletos e Flyers', 'preco' => 'R$ 80,00', 'descricao' => 'Impressão de panfletos promocionais.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Banners e Faixas', 'preco' => 'R$ 60,00/m²', 'descricao' => 'Impressão de banners e faixas em lona.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Adesivos e Etiquetas', 'preco' => 'R$ 90,00', 'descricao' => 'Adesivos personalizados para embalagens.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Envelopes Personalizados', 'preco' => 'R$ 150,00', 'descricao' => 'Impressão de envelopes corporativos.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Papel Timbrado', 'preco' => 'R$ 120,00', 'descricao' => 'Impressão de papel timbrado corporativo.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Pastas Personalizadas', 'preco' => 'R$ 280,00', 'descricao' => 'Pastas para apresentação de documentos.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Talões de Nota e Recibos', 'preco' => 'R$ 80,00', 'descricao' => 'Impressão de talões fiscais personalizados.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Calendários Personalizados', 'preco' => 'R$ 120,00', 'descricao' => 'Calendários personalizados para empresas.', 'img' => 'https://via.placeholder.com/300'],
-                        ['nome' => 'Imãs de Geladeira', 'preco' => 'R$ 140,00', 'descricao' => 'Impressão de imãs personalizados.', 'img' => 'https://via.placeholder.com/300']
+                        ['nome' => 'Cartão de Visita', 'preco' => 'R$ 50,00', 'descricao' => 'Impressão de cartões de visita personalizados.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Panfletos e Flyers', 'preco' => 'R$ 80,00', 'descricao' => 'Impressão de panfletos promocionais.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Banners e Faixas', 'preco' => 'R$ 60,00/m²', 'descricao' => 'Impressão de banners e faixas em lona.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Adesivos e Etiquetas', 'preco' => 'R$ 90,00', 'descricao' => 'Adesivos personalizados para embalagens.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Envelopes Personalizados', 'preco' => 'R$ 150,00', 'descricao' => 'Impressão de envelopes corporativos.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Papel Timbrado', 'preco' => 'R$ 120,00', 'descricao' => 'Impressão de papel timbrado corporativo.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Pastas Personalizadas', 'preco' => 'R$ 280,00', 'descricao' => 'Pastas para apresentação de documentos.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Talões de Nota e Recibos', 'preco' => 'R$ 80,00', 'descricao' => 'Impressão de talões fiscais personalizados.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Calendários Personalizados', 'preco' => 'R$ 120,00', 'descricao' => 'Calendários personalizados para empresas.', 'img' => 'https://placehold.co/300'],
+                        ['nome' => 'Imãs de Geladeira', 'preco' => 'R$ 140,00', 'descricao' => 'Impressão de imãs personalizados.', 'img' => 'https://placehold.co/300']
                     ];
                 @endphp
         
@@ -135,7 +135,7 @@
                         </div><div class="row">
                     @endif
                     <div class="col-md-3">
-                        <div class="panel panel-default animated fadeInUp" style="border: 2px solid #ee4532; transition: 0.3s;">
+                        <div class="panel panel-default animated fadeInUp" style=" transition: 0.3s;">
                             <div class="panel-body text-center">
                                 <img src="{{ $produto['img'] }}" class="img-responsive" alt="{{ $produto['nome'] }}">
                                 <h4 class="product-title">{{ $produto['nome'] }}</h4>
