@@ -42,7 +42,7 @@
                       <div class="row">
                           <div class="col-md-5 col-sm-6 col-xs-12">
                               <div class="about-left wow fadeInLeft">
-                                  <img src="{{ asset('images/about-img.jpg') }}" alt="img">
+                                  <img src="{{ asset('images/about-websites.png') }}" alt="img">
                                   {{-- <a class="introduction-btn" href="#">Daniel Novaz</a> --}}
                               </div>
                           </div>

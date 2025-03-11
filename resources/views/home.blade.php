@@ -64,28 +64,27 @@
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-users wc-icon"></span>
                                         <h4 class="wc-tittle">Experiência</h4>
-                                        <p>A Novaz conta com profissionais com 20 anos de experiência. Especializados em suas áreas de atuação. Profissionais que além de tudo. Amam o que fazem.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-sellsy wc-icon"></span>
                                         <h4 class="wc-tittle">Inovação</h4>
-                                        <p>A Novaz utiliza em seus serviços as últimas tecnologias e tendências de sua área. se preocupando sempre em entregar a melhor solução aos problemas de publicidade de sua empresa.</p>
+                                        <p style="font-size: 1.2em">A Novaz utiliza em seus serviços as últimas tecnologias e tendências de sua área. se preocupando sempre em entregar a melhor solução aos problemas de publicidade de sua empresa.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-line-chart wc-icon"></span>
                                         <h4 class="wc-tittle">Eficiência</h4>
-                                        <p>Publicidade é muito mais que imagens e textos. é preciso saber diferenciar e identificar a melhor solução para determinado problema. isso é Design isso é o que a Novaz faz.</p>
+                                        <p style="font-size: 1.2em">Publicidade é muito mais que imagens e textos. é preciso saber diferenciar e identificar a melhor solução para determinado problema. isso é Design isso é o que a Novaz faz.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-calendar wc-icon"></span>
                                         <h4 class="wc-tittle">Compromisso</h4>
-                                        <p>A Novaz se orgulha do seu grande comprometimento com a qualidade do serviço e do cumprimento de seus prazos.
+                                        <p style="font-size: 1.2em">A Novaz se orgulha do seu grande comprometimento com a qualidade do serviço e do cumprimento de seus prazos.
                                         </p>
                                     </div>
                                 </li>
@@ -110,7 +109,7 @@
                                     <div class="title-area">
                                         <h2 class="tittle">Sobre o <span>Profissional</span></h2>
                                         <span class="tittle-line"></span>
-                                        <p>Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>Apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
+                                        <p style="font-size: 1.2em">Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>Apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
                                             posições nos sites de busca como <span>Google.</span></p>
                                         <div class="about-btn-area">
                                             <a href="{{ url('/#contact') }}" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
