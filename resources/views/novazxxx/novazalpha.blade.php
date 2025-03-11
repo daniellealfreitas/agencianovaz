@@ -35,7 +35,7 @@
     <!-- Start about section -->
     <section id="about">
         <div class="container">
-            <div class="row">
+            {{-- <div class="row">
                 <div class="col-md-12">
                     <!-- Start welcome area -->
                     <div class="welcome-area">
@@ -82,7 +82,7 @@
                     </div>
                     <!-- End welcome area -->
                 </div>
-            </div>
+            </div> --}}
             <div class="row">
                 <div class="col-md-12">
                     <div class="about-area">
@@ -90,7 +90,7 @@
                             <div class="col-md-5 col-sm-6 col-xs-12">
                                 <div class="about-left wow fadeInLeft">
                                     <img src="{{ asset('images/profile_novazalpha.jpg') }}" alt="img">
-                                    <a class="introduction-btn" href="#">Daniel Novaz</a>
+                                    <a class="introduction-btn" href="#">NovazAlpha</a>
                                 </div>
                             </div>
                             <div class="col-md-7 col-sm-6 col-xs-12">
@@ -98,8 +98,33 @@
                                     <div class="title-area">
                                         <h2 class="tittle">Sobre o <span>Novaz</span></h2>
                                         <span class="tittle-line"></span>
-                                        <p>Tenho <span>38 anos</span> nasci em São Paulo Capital. Resido atualmente em <span>Curitiba</span>. Trabalho com <span>Design desde 2003</span>. E sou </span>desenvolvedor web full-stack desde 2007</span> ao longo de meus <span>20 anos de experiência</span> já trabalhei em <span>agências publicitárias, gráficas e Agencias digitais de todos os portes</span>. Passei <span>quatro anos ministrando aulas</span> para cursos de formação de profissionais de <span>Design Gráfico</span>, <span>Desenvolvedor Front e Back-end</span>, fui responsável por <span>palestras no ano de 2009</span> e sou completamente <span>apaixonado</span> pelo que faço. Desenvolvo <span>websites de maneira artesanal</span>, me preocupando com cada detalhe inclusive as <span>Webstandards e SEO</span> resultando em melhores
-                                            posições nos sites de busca como <span>Google.</span></p>
+                                        <p>Tenho 38 anos 1,72m de altura 60kg Corpo magro/atlético Cabelos e olhos castanhos , bebo e fumo ocasionalmente
+                                        Sou safado ninfomaniaco libido altíssima amo uma putaria vem gozar comigo. </p>
+                                        <div class="container">
+                                            <div class="row">
+                                                <!-- Coluna 1 -->
+                                                <div class="col-6">
+                                                    <ul>
+                                                        <li><strong>Dote:</strong> 17cm</li>
+                                                        <li><strong>Idade:</strong> 38 Anos</li>
+                                                        <li><strong>Cor do cabelo:</strong> Castanho</li>
+                                                        <li><strong>Cor dos Olhos:</strong> Castanho</li>
+                                                        <li><strong>Altura:</strong> 1,72m</li>
+                                                    </ul>
+                                                </div>
+                                                
+                                                <!-- Coluna 2 -->
+                                                <div class="col-6">
+                                                    <ul>
+                                                        <li><strong>Peso:</strong> 60kg</li>
+                                                        <li><strong>Corpo:</strong> Magro/Atlético</li>
+                                                        <li><strong>Fumante:</strong> Sim</li>
+                                                        <li><strong>Bebo:</strong> Ocasionalmente</li>
+                                                        <li><strong>Idade:</strong> 38 Anos</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
                                         <div class="about-btn-area">
                                             <a href="#contact" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Novaz</span></a>
                                         </div>
