@@ -739,6 +739,29 @@ p{
     transform: translate3d(0, -25%, 0);
 }
 
+/*--------------------*/
+
+
+/* PRODUTOS */
+
+
+/*--------------------*/
+
+.panel:hover {
+    background-color: #ee4532;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.whatsapp-btn {
+    background-color: #25d366;
+    color: white;
+    border: none;
+}
+
+.whatsapp-btn:hover {
+    background-color: #1ebe57;
+}
 
 /*--------------------*/
 
