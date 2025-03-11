@@ -1,2 +1,15 @@
+# robots.txt para agencianovaz.com.br
+
+# Permite que todos os bots acessem todas as páginas do site
 User-agent: *
-Disallow:
+Disallow: /admin/       # Bloqueia acesso à área de administração
+Disallow: /login/       # Bloqueia acesso às páginas de login
+Disallow: /user/        # Bloqueia acesso às páginas de usuário (se houver)
+
+# Bloqueia o acesso a arquivos sensíveis ou temporários
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /cache/
+
+# Sitemaps
+Sitemap: https://wwww.agencianovaz.com.br/public/sitemap.xml

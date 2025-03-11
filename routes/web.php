@@ -7,7 +7,7 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/blog', function () {
+Route::get('/blog-arquive', function () {
     return view('blog-archive');
 });
 Route::get('/blog-single', function () {
@@ -62,6 +62,14 @@ Route::get('/novazxxx/profile', function () {
 Route::get('/novazxxx/novazalpha', function () {
     return view('novazxxx/novazalpha');
 })->name('novazxxx/novazalpha');
+
+Route::get('/novazxxx/blog/blog-single', function () {
+    return view('novazxxx/blog/blog-single');
+})->name('novazxxx/blog/blog-single');
+
+Route::get('/novazxxx/blog/blog-archive', function () {
+    return view('novazxxx/blog/blog-archive');
+})->name('novazxxx/blog/blog-archive');
 
 
 Route::post('/envia-contato', [ContatoController::class, 'enviaContato'])->name('envia.contato');
