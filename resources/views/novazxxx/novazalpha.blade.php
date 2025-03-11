@@ -126,7 +126,7 @@
                                             </div>
                                         </div>
                                         <div class="about-btn-area">
-                                            <a href="#contact" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Novaz</span></a>
+                                            <a href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Novaz</span></a>
                                         </div>
                                     </div>
                                 </div>
