@@ -9,13 +9,14 @@
 
     <!-- SEO -->
     <meta name="author" content="Daniel Leal Freitas - Novaz - Desenvolvendo o Futuro da Web" />
-    <meta name="description" content="Novaz - Criação de Logotipos, Websites e Publicidade na Internet em Curitiba" />
-    <meta name="keywords" content="logotipos, websites, publicidade na internet, agencias web, agencias de publicidade, curitiba e região metropolitana" />
+    <meta name="description" content="Criação de sites profissionais, lojas virtuais e blogs otimizados para Google. Agência NOVAZ - desenvolvimento de sites, SEO e marketing digital em Curitiba." />
+    <meta name="keywords" content="criar site profissional, desenvolvimento de sites, criar loja virtual, criar site institucional, site otimizado para Google, SEO para sites, criação de websites, agência de marketing digital Curitiba, site barato e profissional, site para empresa, melhor agência para criar site, criar blog profissional, landing page para vendas, site rápido e responsivo" />
+    
     <meta name="robots" content="all, index, follow" />
 
 
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title> @yield('title', 'Novaz - Criação de Logotipos, Websites e Publicidade na Internet em Curitiba')</title>
+    <title> @yield('title', 'Novaz - Criação de Websites, Logotipos e Publicidade na Internet em Curitiba')</title>
 
     <link href="{{ asset('images/favicon.ico') }}" rel="shortcut icon" type="image/icon"  />
     <link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
@@ -45,25 +46,21 @@
         {{ session('success') }}
     </div>
    @endif
-    {{-- <!-- BEGAIN PRELOADER -->
+     <!-- BEGAIN PRELOADER -->
     <div id="preloader">
         <div class="loader">&nbsp;</div>
-    </div> --}}
+    </div>
 
 
     <!-- SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#"><i class="fa fa-chevron-up"></i></a>
 
     @yield('header')
-
    
     @include('partials.nav')
-
-
   
 
     @yield('content')
-
 
     <section id="google-map">
         <footer id="footer">
@@ -92,7 +89,7 @@
 
         <!-- initialize jQuery Library -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-        <script src="{{ asset('js/bootstrap.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('js/bootstrap.js') }}"></script>
         <script type="text/javascript" src="{{ asset('js/slick.js') }} "></script>
         <script type="text/javascript" src="{{ asset('js/waypoints.js') }} "></script>
         <script type="text/javascript" src="{{ asset('js/jquery.counterup.js') }} "></script>
