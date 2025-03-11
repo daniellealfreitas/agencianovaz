@@ -129,6 +129,7 @@
                         ['nome' => 'Imãs de Geladeira', 'preco' => 'R$ 140,00', 'descricao' => 'Impressão de imãs personalizados.', 'img' => 'https://placehold.co/300']
                     ];
                 @endphp
+                
         
                 @foreach($produtos as $index => $produto)
                     @if($index % 4 == 0)
