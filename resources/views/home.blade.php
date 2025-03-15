@@ -64,6 +64,7 @@
                                     <div class="single-wc-content wow fadeInUp">
                                         <span class="fa fa-users wc-icon"></span>
                                         <h4 class="wc-tittle">Experiência</h4>
+                                        <p>A Novaz conta com profissionais com 20 anos de experiência. Especializados em suas áreas de atuação. Profissionais que além de tudo. Amam o que fazem.</p>
                                     </div>
                                 </li>
                                 <li>

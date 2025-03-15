@@ -13,11 +13,11 @@
             <div class="header-content">
                 <!-- Start header content slider -->
                 <h2 class="header-slide">
-                    VOCÊ PODE   
-                    <span>FUDER MEU CUZINHO</span>
+                    O QUE QUER FAZER HOJE?
+                    <span>FUDER UM CUZINHO</span>
                     <span>ENFIAR NA GARGANTA</span>
                     <span>ME USAR </span>
-                    <span></span> NOVAZ ALPHA</h2>
+                    <span></span>ME LIGA AGORA</h2>
                 <!-- End header content slider -->
                 <!-- Header btn area -->
                 <div class="header-btn-area">
@@ -160,7 +160,7 @@
         <div class="col-md-12">
           <div class="team-area">
             <div class="title-area">
-              <h2 class="tittle">O Fundador</h2>
+              <h2 class="tittle">Mais Modelos</h2>
               <span class="tittle-line"></span>
               <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto</p>
             </div>
@@ -170,16 +170,46 @@
                   <div class="team-item team-img-3 wow fadeInUp">
                     <div class="team-info">
                       <p>Meu Sonho é de um Futuro aonde TODAS as empresas estejam na internet. Que tal colocar a sua?</p>
-                      <a href="#"><span class="fa fa-facebook"></span></a>
+                      {{-- <a href="#"><span class="fa fa-facebook"></span></a> --}}
                       <a href="#"><span class="fa fa-twitter"></span></a>
-                      <a href="#"><span class="fa fa-pinterest"></span></a>
-                      <a href="#"><span class="fa fa-rss"></span></a>
+                      
+                      
                     </div>
                   </div>
                   <div class="team-address">
                     <p>DANIEL L. FREITAS</p>
                     <span>Diretor de Arte/Fundador.</span>
                   </div>
+                </li>
+                <li>
+                    <div class="team-item team-img-3 wow fadeInUp">
+                        <div class="team-info">
+                        <p>Meu Sonho é de um Futuro aonde TODAS as empresas estejam na internet. Que tal colocar a sua?</p>
+                        <a href="#"><span class="fa fa-facebook"></span></a>
+                        <a href="#"><span class="fa fa-twitter"></span></a>
+                        
+                        
+                        </div>
+                    </div>
+                    <div class="team-address">
+                        <p>DANIEL L. FREITAS</p>
+                        <span>Diretor de Arte/Fundador.</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="team-item team-img-3 wow fadeInUp">
+                        <div class="team-info">
+                        <p>Meu Sonho é de um Futuro aonde TODAS as empresas estejam na internet. Que tal colocar a sua?</p>
+                        <a href="#"><span class="fa fa-facebook"></span></a>
+                        <a href="#"><span class="fa fa-twitter"></span></a>
+                        
+                        
+                        </div>
+                    </div>
+                    <div class="team-address">
+                        <p>DANIEL L. FREITAS</p>
+                        <span>Diretor de Arte/Fundador.</span>
+                    </div>
                 </li>
               </ul>
             </div>
