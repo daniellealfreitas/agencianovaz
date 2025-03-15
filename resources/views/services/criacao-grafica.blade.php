@@ -280,7 +280,7 @@
                 </div>
                 <div class="col-md-8 col-sm-6 col-xs-12">
                     <div class="contact-right wow fadeInRight">
-                        <h2>Envie uma mensagem</h2>
+                       
                         <x-contact-form />
                     </div>
                 </div>

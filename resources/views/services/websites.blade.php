@@ -49,8 +49,8 @@
                           <div class="col-md-7 col-sm-6 col-xs-12">
                               <div class="about-right wow fadeInRight">
                                   <div class="title-area">
-                                      <h2 class="tittle">Transforme Seu Negócio </span></h2>
-                                      <span class="tittle-line">com um Website Profissional</span>
+                                      <h2 class="tittle">Transforme Seu Negócio com um Website Profissional</span></h2>
+                                      <span class="tittle-line"></span>
                                       <p>a NOVAZ, criamos websites que combinam design, funcionalidade e performance para destacar sua marca online.</p>
                                       <div class="about-btn-area">
                                           <a href="{{ url('/#contact') }}" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
@@ -235,29 +235,6 @@
   </section> 
 
 
- 
-  <!-- FAQ Section -->
-  <section id="faq" class="py-5">
-    <div class="container">
-      <h2 class="text-center mb-4">Perguntas Frequentes</h2>
-      <div class="accordion" id="faqAccordion">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="faqOne">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              Quanto tempo leva para criar um website?
-            </button>
-          </h2>
-          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="faqOne" data-bs-parent="#faqAccordion">
-            <div class="accordion-body">
-              O tempo de criação varia conforme a complexidade do projeto. Em média, um site institucional simples leva cerca de 3 a 4 semanas para ser desenvolvido.
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
 
     <!-- Start Contact section -->
     <section id="contact">
@@ -278,7 +255,7 @@
                 </div>
                 <div class="col-md-8 col-sm-6 col-xs-12">
                     <div class="contact-right wow fadeInRight">
-                        <h2>Envie uma mensagem</h2>
+                       
                         <x-contact-form />
                     </div>
                 </div>
