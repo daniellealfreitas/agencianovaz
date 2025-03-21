@@ -2,7 +2,6 @@
 
 @section('title', 'Novaz XXX NovazAlpha')
 
-
 @section('header')
  <!-- Start header section -->
  <header id="header">
@@ -22,7 +21,7 @@
                 <!-- Header btn area -->
                 <div class="header-btn-area">
                     <a class="knowmore-btn" href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" target="blank">(48)9.8828-8309</a>
-                    <a class="download-btn" href="#contact">CONTRATAR</a>
+                    <a class="download-btn" href="#contact">SE ENCONTRAR</a>
                 </div>
             </div>
         </div>
@@ -103,7 +102,7 @@
                                         <div class="container">
                                             <div class="row">
                                                 <!-- Coluna 1 -->
-                                                <div class="col-6">
+                                                <div class="col-md-6">
                                                     <ul>
                                                         <li><strong>Dote:</strong> 17cm</li>
                                                         <li><strong>Idade:</strong> 38 Anos</li>
@@ -111,10 +110,9 @@
                                                         <li><strong>Cor dos Olhos:</strong> Castanho</li>
                                                         <li><strong>Altura:</strong> 1,72m</li>
                                                     </ul>
-                                                </div>
-                                                
+                                                </div>                                                
                                                 <!-- Coluna 2 -->
-                                                <div class="col-6">
+                                                <div class="col-md-6">
                                                     <ul>
                                                         <li><strong>Peso:</strong> 60kg</li>
                                                         <li><strong>Corpo:</strong> Magro/Atlético</li>
@@ -126,7 +124,7 @@
                                             </div>
                                         </div>
                                         <div class="about-btn-area">
-                                            <a href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" class="button button-default" data-text="Fale com o Fundador"><span>Fale com o Novaz</span></a>
+                                            <a href="https://wa.me/+5548988288309?text=Vi%20seu%20website%20e%20gostaria%20de%20melhorar%20minha%20presen%C3%A7a%20online%20atrav%C3%A9s%20dos%20servi%C3%A7os%20da%20Agencia%20Novaz%20" class="button button-default" data-text="Entrar em contato"><span>Entrar em contato</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -171,14 +169,13 @@
                     <div class="team-info">
                       <p>Meu Sonho é de um Futuro aonde TODAS as empresas estejam na internet. Que tal colocar a sua?</p>
                       {{-- <a href="#"><span class="fa fa-facebook"></span></a> --}}
-                      <a href="#"><span class="fa fa-twitter"></span></a>
-                      
+                      <a href="#"><span class="fa fa-twitter"></span></a>                    
                       
                     </div>
                   </div>
                   <div class="team-address">
-                    <p>DANIEL L. FREITAS</p>
-                    <span>Diretor de Arte/Fundador.</span>
+                    <p>Daniel Novaz</p>
+                    <span>Acompanhante de Curitiba</span>
                   </div>
                 </li>
                 <li>
@@ -192,8 +189,8 @@
                         </div>
                     </div>
                     <div class="team-address">
-                        <p>DANIEL L. FREITAS</p>
-                        <span>Diretor de Arte/Fundador.</span>
+                        <p>Zilanda XXX</p>
+                        <span>Paraense insáciável submissa.</span>
                     </div>
                 </li>
                 <li>
@@ -299,6 +296,12 @@
   </section>
     <!-- End service section -->
 
+    <iframe src="https://www.xvideos.com/embedframe/otbmbmhec1b" frameborder=0 width=510 height=400 scrolling=no allowfullscreen=allowfullscreen></iframe>
+    
+    <iframe src="https://www.xvideos.com/embedframe/otublava6f7" frameborder=0 width=510 height=400 scrolling=no allowfullscreen=allowfullscreen></iframe>
+
+
+    
     <!-- Start Gallery -->
     <!-- Start counter section -->
     {{-- <section id="counter">

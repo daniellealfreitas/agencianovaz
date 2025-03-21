@@ -39,8 +39,8 @@
                     <!-- Start welcome area -->
                     <div class="welcome-area">
                         <div class="title-area">
-                            <h2 class="tittle">Criação Gráfica</h2>
-                            <span class="tittle-line">A imagem da sua empresa!</span>
+                            <h2 class="tittle">Criação Gráfica A imagem da sua empresa!</h2>
+                            <span class="tittle-line"></span>
                             <p>Representamos a sua empresa de forma única e marcante, assim, além de uma primeira impressão consolidada, você terá a longo prazo um reconhecimento de marca. </p>
                         </div>
 
@@ -112,8 +112,30 @@
     </section>
     <!-- End about section -->
 
+    <!-- Start call to action -->
+    <section id="call-to-action">
+        <img src="{{ asset('images/call-to-action-bg.png') }} " alt="img">
+        <div class="call-to-overlay">
+            <div class="container">
+                <div class="call-to-content wow fadeInUp">
+                    <h2>Não perca mais oportunidades valiosas.</h2>
+                    <a href="#contact" class="button button-default" data-text="Agora."><span>Investir</span></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End call to action -->
+
+
     <section id="produtos">
         <div class="container">
+            <div class="row">
+                <div class="title-area">
+                    <h2 class="tittle">Produtos</h2>
+                    <span class="tittle-line"></span>
+                    <p>Confira alguns dos nossos produtos </p>
+                </div>
+            </div>
             <div class="row">
                 @php
                     $produtos = [
@@ -154,20 +176,7 @@
     </section>
 
 
-    <!-- Start call to action -->
-    <section id="call-to-action">
-        <img src="{{ asset('images/call-to-action-bg.png') }} " alt="img">
-        <div class="call-to-overlay">
-            <div class="container">
-                <div class="call-to-content wow fadeInUp">
-                    <h2>Não perca mais oportunidades valiosas.</h2>
-                    <a href="#contact" class="button button-default" data-text="Agora."><span>Investir</span></a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End call to action -->
-
+   
 
  
      <section id="testimonial">
